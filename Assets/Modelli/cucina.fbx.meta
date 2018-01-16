@@ -1,0 +1,1587 @@
+fileFormatVersion: 2
+guid: 477889cacc942344aad99e1504474357
+timeCreated: 1516098351
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box25899
+    100002: Box25900
+    100004: Box25901
+    100006: Box25902
+    100008: Box25903
+    100010: Box25904
+    100012: Box25905
+    100014: Box25907
+    100016: Box25908
+    100018: Box25909
+    100020: Box25910
+    100022: Box25911
+    100024: //RootNode
+    100026: Line19181
+    100028: Line19182
+    100030: Line19183
+    100032: panel_Nard
+    100034: Cube.003
+    100036: Cube.004
+    100038: Cube.005
+    100040: Cube.006
+    100042: Cube.007
+    100044: Cube.008
+    100046: Cube.009
+    100048: Cube.010
+    100050: Cube.011
+    100052: Cube.012
+    100054: Cube.013
+    100056: Cube.014
+    100058: Line19182.001
+    400000: Box25899
+    400002: Box25900
+    400004: Box25901
+    400006: Box25902
+    400008: Box25903
+    400010: Box25904
+    400012: Box25905
+    400014: Box25907
+    400016: Box25908
+    400018: Box25909
+    400020: Box25910
+    400022: Box25911
+    400024: //RootNode
+    400026: Line19181
+    400028: Line19182
+    400030: Line19183
+    400032: panel_Nard
+    400034: Cube.003
+    400036: Cube.004
+    400038: Cube.005
+    400040: Cube.006
+    400042: Cube.007
+    400044: Cube.008
+    400046: Cube.009
+    400048: Cube.010
+    400050: Cube.011
+    400052: Cube.012
+    400054: Cube.013
+    400056: Cube.014
+    400058: Line19182.001
+    2100000: No Name
+    2300000: Box25899
+    2300002: Box25900
+    2300004: Box25901
+    2300006: Box25902
+    2300008: Box25903
+    2300010: Box25904
+    2300012: Box25905
+    2300014: Box25907
+    2300016: Box25908
+    2300018: Box25909
+    2300020: Box25910
+    2300022: Box25911
+    2300024: Line19181
+    2300026: Line19182
+    2300028: Line19183
+    2300030: panel_Nard
+    2300032: Cube.003
+    2300034: Cube.004
+    2300036: Cube.005
+    2300038: Cube.006
+    2300040: Cube.007
+    2300042: Cube.008
+    2300044: Cube.009
+    2300046: Cube.010
+    2300048: Cube.011
+    2300050: Cube.012
+    2300052: Cube.013
+    2300054: Cube.014
+    2300056: Line19182.001
+    3300000: Box25899
+    3300002: Box25900
+    3300004: Box25901
+    3300006: Box25902
+    3300008: Box25903
+    3300010: Box25904
+    3300012: Box25905
+    3300014: Box25907
+    3300016: Box25908
+    3300018: Box25909
+    3300020: Box25910
+    3300022: Box25911
+    3300024: Line19181
+    3300026: Line19182
+    3300028: Line19183
+    3300030: panel_Nard
+    3300032: Cube.003
+    3300034: Cube.004
+    3300036: Cube.005
+    3300038: Cube.006
+    3300040: Cube.007
+    3300042: Cube.008
+    3300044: Cube.009
+    3300046: Cube.010
+    3300048: Cube.011
+    3300050: Cube.012
+    3300052: Cube.013
+    3300054: Cube.014
+    3300056: Line19182.001
+    4300000: panel_Nard
+    4300002: Box25911
+    4300004: Box25910
+    4300006: Box25909
+    4300008: Line19183
+    4300010: Box25908
+    4300012: Box25907
+    4300014: Box25905
+    4300016: Box25904
+    4300018: Box25903
+    4300020: Box25902
+    4300022: Box25901
+    4300024: Box25900
+    4300026: Box25899
+    4300028: Line19182
+    4300030: Line19181
+    4300032: Line19182.001
+    4300034: Cube.014
+    4300036: Cube.013
+    4300038: Cube.012
+    4300040: Cube.011
+    4300042: Cube.010
+    4300044: Cube.009
+    4300046: Cube.008
+    4300048: Cube.007
+    4300050: Cube.006
+    4300052: Cube.005
+    4300054: Cube.004
+    4300056: Cube.003
+    7400000: panel_Nard|Arc01.Arc003|Take 001|BaseLayer
+    7400002: panel_Nard|Bar Stool001|Take 001|BaseLayer
+    7400004: panel_Nard|be-Easy ta|Take 001|BaseLayer
+    7400006: "panel_Nard|Block:bid\xE8|Take 001|BaseLayer"
+    7400008: panel_Nard|Block:divano|Take 001|BaseLayer
+    7400010: panel_Nard|Box002|Take 001|BaseLayer
+    7400012: panel_Nard|Box005|Take 001|BaseLayer
+    7400014: panel_Nard|Box007|Take 001|BaseLayer
+    7400016: panel_Nard|Box009|Take 001|BaseLayer
+    7400018: panel_Nard|Box012|Take 001|BaseLayer
+    7400020: panel_Nard|Box016|Take 001|BaseLayer
+    7400022: panel_Nard|Box018|Take 001|BaseLayer
+    7400024: panel_Nard|Box019|Take 001|BaseLayer
+    7400026: panel_Nard|Box2226.Bo001|Take 001|BaseLayer
+    7400028: panel_Nard|Box2226.Bo|Take 001|BaseLayer
+    7400030: panel_Nard|Box25884|Take 001|BaseLayer
+    7400032: panel_Nard|Box25885|Take 001|BaseLayer
+    7400034: panel_Nard|Box25887|Take 001|BaseLayer
+    7400036: panel_Nard|Box25889|Take 001|BaseLayer
+    7400038: panel_Nard|Box25890|Take 001|BaseLayer
+    7400040: panel_Nard|Box25891|Take 001|BaseLayer
+    7400042: panel_Nard|Box25892|Take 001|BaseLayer
+    7400044: panel_Nard|Box25894|Take 001|BaseLayer
+    7400046: panel_Nard|Box25898|Take 001|BaseLayer
+    7400048: panel_Nard|Box25902|Take 001|BaseLayer
+    7400050: panel_Nard|Box25903|Take 001|BaseLayer
+    7400052: panel_Nard|Box25907|Take 001|BaseLayer
+    7400054: panel_Nard|Box25909|Take 001|BaseLayer
+    7400056: panel_Nard|Box25911|Take 001|BaseLayer
+    7400058: panel_Nard|Box263|Take 001|BaseLayer
+    7400060: panel_Nard|Box264|Take 001|BaseLayer
+    7400062: panel_Nard|Box265|Take 001|BaseLayer
+    7400064: panel_Nard|Box270|Take 001|BaseLayer
+    7400066: panel_Nard|Box277|Take 001|BaseLayer
+    7400068: panel_Nard|Box279|Take 001|BaseLayer
+    7400070: panel_Nard|Box280|Take 001|BaseLayer
+    7400072: panel_Nard|Box286|Take 001|BaseLayer
+    7400074: panel_Nard|Box287|Take 001|BaseLayer
+    7400076: panel_Nard|Box288|Take 001|BaseLayer
+    7400078: panel_Nard|Box293|Take 001|BaseLayer
+    7400080: panel_Nard|Box294|Take 001|BaseLayer
+    7400082: panel_Nard|Box296|Take 001|BaseLayer
+    7400084: panel_Nard|Box301|Take 001|BaseLayer
+    7400086: panel_Nard|Box303|Take 001|BaseLayer
+    7400088: panel_Nard|Camera001.Target|Take 001|BaseLayer
+    7400090: panel_Nard|Camera001|Take 001|BaseLayer
+    7400092: panel_Nard|Circle001.001|Take 001|BaseLayer
+    7400094: panel_Nard|Circle002.001|Take 001|BaseLayer
+    7400096: panel_Nard|Circle003.001|Take 001|BaseLayer
+    7400098: panel_Nard|Circle004|Take 001|BaseLayer
+    7400100: panel_Nard|Circle013|Take 001|BaseLayer
+    7400102: panel_Nard|Circle015|Take 001|BaseLayer
+    7400104: panel_Nard|Component#.Component003|Take 001|BaseLayer
+    7400106: panel_Nard|Component#.Component004|Take 001|BaseLayer
+    7400108: panel_Nard|Component#.Component006|Take 001|BaseLayer
+    7400110: panel_Nard|Component#002|Take 001|BaseLayer
+    7400112: panel_Nard|Component#006|Take 001|BaseLayer
+    7400114: panel_Nard|Component#|Take 001|BaseLayer
+    7400116: panel_Nard|Cylinder007|Take 001|BaseLayer
+    7400118: panel_Nard|Cylinder00|Take 001|BaseLayer
+    7400120: panel_Nard|Cylinder010|Take 001|BaseLayer
+    7400122: panel_Nard|Cylinder01|Take 001|BaseLayer
+    7400124: panel_Nard|Group#4_005|Take 001|BaseLayer
+    7400126: panel_Nard|Group#4_00|Take 001|BaseLayer
+    7400128: panel_Nard|Group003|Take 001|BaseLayer
+    7400130: panel_Nard|Group004|Take 001|BaseLayer
+    7400132: panel_Nard|Group010|Take 001|BaseLayer
+    7400134: panel_Nard|Group011|Take 001|BaseLayer
+    7400136: panel_Nard|Group020|Take 001|BaseLayer
+    7400138: panel_Nard|Group022|Take 001|BaseLayer
+    7400140: panel_Nard|Group023|Take 001|BaseLayer
+    7400142: panel_Nard|Group025|Take 001|BaseLayer
+    7400144: panel_Nard|Group028|Take 001|BaseLayer
+    7400146: panel_Nard|Group029|Take 001|BaseLayer
+    7400148: panel_Nard|Group030|Take 001|BaseLayer
+    7400150: panel_Nard|Group034|Take 001|BaseLayer
+    7400152: panel_Nard|Group04|Take 001|BaseLayer
+    7400154: panel_Nard|Group_002ddd|Take 001|BaseLayer
+    7400156: panel_Nard|Group_002sdv002|Take 001|BaseLayer
+    7400158: panel_Nard|Group_002sdv|Take 001|BaseLayer
+    7400160: panel_Nard|Group_002|Take 001|BaseLayer
+    7400162: panel_Nard|Group_003|Take 001|BaseLayer
+    7400164: panel_Nard|Group_007|Take 001|BaseLayer
+    7400166: panel_Nard|Group_008.Group_006|Take 001|BaseLayer
+    7400168: panel_Nard|Group_008|Take 001|BaseLayer
+    7400170: panel_Nard|Group_009.Group_011|Take 001|BaseLayer
+    7400172: panel_Nard|Group_015|Take 001|BaseLayer
+    7400174: panel_Nard|Group_016|Take 001|BaseLayer
+    7400176: panel_Nard|Group_020|Take 001|BaseLayer
+    7400178: panel_Nard|Group_021|Take 001|BaseLayer
+    7400180: panel_Nard|Group_022|Take 001|BaseLayer
+    7400182: panel_Nard|Group_023|Take 001|BaseLayer
+    7400184: panel_Nard|Group_024|Take 001|BaseLayer
+    7400186: panel_Nard|Group_025|Take 001|BaseLayer
+    7400188: panel_Nard|Group_026|Take 001|BaseLayer
+    7400190: panel_Nard|Group_028|Take 001|BaseLayer
+    7400192: panel_Nard|Group_032|Take 001|BaseLayer
+    7400194: panel_Nard|Group_038|Take 001|BaseLayer
+    7400196: panel_Nard|Group_039|Take 001|BaseLayer
+    7400198: panel_Nard|Group_040|Take 001|BaseLayer
+    7400200: panel_Nard|Group_042|Take 001|BaseLayer
+    7400202: panel_Nard|Layer:07Arredi.001|Take 001|BaseLayer
+    7400204: panel_Nard|Layer:07Arredi.002|Take 001|BaseLayer
+    7400206: panel_Nard|Layer:arredo|Take 001|BaseLayer
+    7400208: panel_Nard|Line002|Take 001|BaseLayer
+    7400210: panel_Nard|Line008|Take 001|BaseLayer
+    7400212: panel_Nard|Line009|Take 001|BaseLayer
+    7400214: panel_Nard|Line010|Take 001|BaseLayer
+    7400216: panel_Nard|Line011|Take 001|BaseLayer
+    7400218: panel_Nard|Line012|Take 001|BaseLayer
+    7400220: panel_Nard|Line013|Take 001|BaseLayer
+    7400222: panel_Nard|Line014|Take 001|BaseLayer
+    7400224: panel_Nard|Line018|Take 001|BaseLayer
+    7400226: panel_Nard|Line019|Take 001|BaseLayer
+    7400228: panel_Nard|Line020|Take 001|BaseLayer
+    7400230: panel_Nard|Line021|Take 001|BaseLayer
+    7400232: panel_Nard|Line025|Take 001|BaseLayer
+    7400234: panel_Nard|Line02|Take 001|BaseLayer
+    7400236: panel_Nard|Line048.Li001|Take 001|BaseLayer
+    7400238: panel_Nard|Line049.Li001|Take 001|BaseLayer
+    7400240: panel_Nard|Line053.Li002|Take 001|BaseLayer
+    7400242: panel_Nard|Line054.Li|Take 001|BaseLayer
+    7400244: panel_Nard|Line057|Take 001|BaseLayer
+    7400246: panel_Nard|Line059|Take 001|BaseLayer
+    7400248: panel_Nard|Line060|Take 001|BaseLayer
+    7400250: panel_Nard|Line19181|Take 001|BaseLayer
+    7400252: panel_Nard|Object003|Take 001|BaseLayer
+    7400254: panel_Nard|Object007|Take 001|BaseLayer
+    7400256: panel_Nard|Object008|Take 001|BaseLayer
+    7400258: panel_Nard|Object009|Take 001|BaseLayer
+    7400260: panel_Nard|Object010|Take 001|BaseLayer
+    7400262: panel_Nard|Object011|Take 001|BaseLayer
+    7400264: panel_Nard|Object012|Take 001|BaseLayer
+    7400266: panel_Nard|Object01|Take 001|BaseLayer
+    7400268: panel_Nard|Object03.002|Take 001|BaseLayer
+    7400270: panel_Nard|Object034|Take 001|BaseLayer
+    7400272: panel_Nard|Object035|Take 001|BaseLayer
+    7400274: panel_Nard|Object04.001|Take 001|BaseLayer
+    7400276: panel_Nard|Object04|Take 001|BaseLayer
+    7400278: panel_Nard|Object05.001|Take 001|BaseLayer
+    7400280: panel_Nard|Object05|Take 001|BaseLayer
+    7400282: panel_Nard|Object10|Take 001|BaseLayer
+    7400284: panel_Nard|Object11|Take 001|BaseLayer
+    7400286: panel_Nard|panel_Nard|Take 001|BaseLayer
+    7400288: panel_Nard|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7400290: panel_Nard|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7400292: panel_Nard|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7400294: panel_Nard|Plane02#1_001|Take 001|BaseLayer
+    7400296: panel_Nard|Plane12|Take 001|BaseLayer
+    7400298: panel_Nard|Rectangl030|Take 001|BaseLayer
+    7400300: panel_Nard|Rectangl032|Take 001|BaseLayer
+    7400302: panel_Nard|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7400304: panel_Nard|Rectangle005|Take 001|BaseLayer
+    7400306: panel_Nard|Rectangle007|Take 001|BaseLayer
+    7400308: panel_Nard|Rectangle016|Take 001|BaseLayer
+    7400310: panel_Nard|Rectangle019|Take 001|BaseLayer
+    7400312: panel_Nard|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7400314: panel_Nard|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7400316: panel_Nard|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7400318: panel_Nard|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7400320: panel_Nard|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7400322: panel_Nard|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7400324: panel_Nard|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7400326: panel_Nard|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7400328: panel_Nard|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7400330: panel_Nard|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7400332: panel_Nard|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7400334: panel_Nard|Rectangle6647|Take 001|BaseLayer
+    7400336: panel_Nard|Rectangle6649|Take 001|BaseLayer
+    7400338: panel_Nard|Rectangle6652|Take 001|BaseLayer
+    7400340: panel_Nard|Rectangle6654|Take 001|BaseLayer
+    7400342: panel_Nard|Rectangle6655|Take 001|BaseLayer
+    7400344: panel_Nard|Rectangle6657|Take 001|BaseLayer
+    7400346: panel_Nard|Rectangle6659|Take 001|BaseLayer
+    7400348: panel_Nard|Rectangle6660|Take 001|BaseLayer
+    7400350: panel_Nard|Shape004|Take 001|BaseLayer
+    7400352: panel_Nard|Shape01|Take 001|BaseLayer
+    7400354: panel_Nard|Shape02|Take 001|BaseLayer
+    7400356: panel_Nard|Side Chair001|Take 001|BaseLayer
+    7400358: panel_Nard|Side Chair004|Take 001|BaseLayer
+    7400360: panel_Nard|Side Chair005|Take 001|BaseLayer
+    7400362: panel_Nard|Side Chair006|Take 001|BaseLayer
+    7400364: panel_Nard|Side Chair007|Take 001|BaseLayer
+    7400366: panel_Nard|Sphere004|Take 001|BaseLayer
+    7400368: panel_Nard|sub004|Take 001|BaseLayer
+    7400370: panel_Nard|Torus001|Take 001|BaseLayer
+    7400372: panel_Nard|Tripod lamp|Take 001|BaseLayer
+    7400374: panel_Nard|Tube229|Take 001|BaseLayer
+    7400376: panel_Nard|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7400378: panel_Nard|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7400380: panel_Nard|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7400382: panel_Nard|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7400384: panel_Nard|zerkal_05|Take 001|BaseLayer
+    7400386: Box25911|Arc01.Arc003|Take 001|BaseLayer
+    7400388: Box25911|Bar Stool001|Take 001|BaseLayer
+    7400390: Box25911|be-Easy ta|Take 001|BaseLayer
+    7400392: "Box25911|Block:bid\xE8|Take 001|BaseLayer"
+    7400394: Box25911|Block:divano|Take 001|BaseLayer
+    7400396: Box25911|Box002|Take 001|BaseLayer
+    7400398: Box25911|Box005|Take 001|BaseLayer
+    7400400: Box25911|Box007|Take 001|BaseLayer
+    7400402: Box25911|Box009|Take 001|BaseLayer
+    7400404: Box25911|Box012|Take 001|BaseLayer
+    7400406: Box25911|Box016|Take 001|BaseLayer
+    7400408: Box25911|Box018|Take 001|BaseLayer
+    7400410: Box25911|Box019|Take 001|BaseLayer
+    7400412: Box25911|Box2226.Bo001|Take 001|BaseLayer
+    7400414: Box25911|Box2226.Bo|Take 001|BaseLayer
+    7400416: Box25911|Box25884|Take 001|BaseLayer
+    7400418: Box25911|Box25885|Take 001|BaseLayer
+    7400420: Box25911|Box25887|Take 001|BaseLayer
+    7400422: Box25911|Box25889|Take 001|BaseLayer
+    7400424: Box25911|Box25890|Take 001|BaseLayer
+    7400426: Box25911|Box25891|Take 001|BaseLayer
+    7400428: Box25911|Box25892|Take 001|BaseLayer
+    7400430: Box25911|Box25894|Take 001|BaseLayer
+    7400432: Box25911|Box25898|Take 001|BaseLayer
+    7400434: Box25911|Box25902|Take 001|BaseLayer
+    7400436: Box25911|Box25903|Take 001|BaseLayer
+    7400438: Box25911|Box25907|Take 001|BaseLayer
+    7400440: Box25911|Box25909|Take 001|BaseLayer
+    7400442: Box25911|Box25911|Take 001|BaseLayer
+    7400444: Box25911|Box263|Take 001|BaseLayer
+    7400446: Box25911|Box264|Take 001|BaseLayer
+    7400448: Box25911|Box265|Take 001|BaseLayer
+    7400450: Box25911|Box270|Take 001|BaseLayer
+    7400452: Box25911|Box277|Take 001|BaseLayer
+    7400454: Box25911|Box279|Take 001|BaseLayer
+    7400456: Box25911|Box280|Take 001|BaseLayer
+    7400458: Box25911|Box286|Take 001|BaseLayer
+    7400460: Box25911|Box287|Take 001|BaseLayer
+    7400462: Box25911|Box288|Take 001|BaseLayer
+    7400464: Box25911|Box293|Take 001|BaseLayer
+    7400466: Box25911|Box294|Take 001|BaseLayer
+    7400468: Box25911|Box296|Take 001|BaseLayer
+    7400470: Box25911|Box301|Take 001|BaseLayer
+    7400472: Box25911|Box303|Take 001|BaseLayer
+    7400474: Box25911|Camera001.Target|Take 001|BaseLayer
+    7400476: Box25911|Camera001|Take 001|BaseLayer
+    7400478: Box25911|Circle001.001|Take 001|BaseLayer
+    7400480: Box25911|Circle002.001|Take 001|BaseLayer
+    7400482: Box25911|Circle003.001|Take 001|BaseLayer
+    7400484: Box25911|Circle004|Take 001|BaseLayer
+    7400486: Box25911|Circle013|Take 001|BaseLayer
+    7400488: Box25911|Circle015|Take 001|BaseLayer
+    7400490: Box25911|Component#.Component003|Take 001|BaseLayer
+    7400492: Box25911|Component#.Component004|Take 001|BaseLayer
+    7400494: Box25911|Component#.Component006|Take 001|BaseLayer
+    7400496: Box25911|Component#002|Take 001|BaseLayer
+    7400498: Box25911|Component#006|Take 001|BaseLayer
+    7400500: Box25911|Component#|Take 001|BaseLayer
+    7400502: Box25911|Cylinder007|Take 001|BaseLayer
+    7400504: Box25911|Cylinder00|Take 001|BaseLayer
+    7400506: Box25911|Cylinder010|Take 001|BaseLayer
+    7400508: Box25911|Cylinder01|Take 001|BaseLayer
+    7400510: Box25911|Group#4_005|Take 001|BaseLayer
+    7400512: Box25911|Group#4_00|Take 001|BaseLayer
+    7400514: Box25911|Group003|Take 001|BaseLayer
+    7400516: Box25911|Group004|Take 001|BaseLayer
+    7400518: Box25911|Group010|Take 001|BaseLayer
+    7400520: Box25911|Group011|Take 001|BaseLayer
+    7400522: Box25911|Group020|Take 001|BaseLayer
+    7400524: Box25911|Group022|Take 001|BaseLayer
+    7400526: Box25911|Group023|Take 001|BaseLayer
+    7400528: Box25911|Group025|Take 001|BaseLayer
+    7400530: Box25911|Group028|Take 001|BaseLayer
+    7400532: Box25911|Group029|Take 001|BaseLayer
+    7400534: Box25911|Group030|Take 001|BaseLayer
+    7400536: Box25911|Group034|Take 001|BaseLayer
+    7400538: Box25911|Group04|Take 001|BaseLayer
+    7400540: Box25911|Group_002ddd|Take 001|BaseLayer
+    7400542: Box25911|Group_002sdv002|Take 001|BaseLayer
+    7400544: Box25911|Group_002sdv|Take 001|BaseLayer
+    7400546: Box25911|Group_002|Take 001|BaseLayer
+    7400548: Box25911|Group_003|Take 001|BaseLayer
+    7400550: Box25911|Group_007|Take 001|BaseLayer
+    7400552: Box25911|Group_008.Group_006|Take 001|BaseLayer
+    7400554: Box25911|Group_008|Take 001|BaseLayer
+    7400556: Box25911|Group_009.Group_011|Take 001|BaseLayer
+    7400558: Box25911|Group_015|Take 001|BaseLayer
+    7400560: Box25911|Group_016|Take 001|BaseLayer
+    7400562: Box25911|Group_020|Take 001|BaseLayer
+    7400564: Box25911|Group_021|Take 001|BaseLayer
+    7400566: Box25911|Group_022|Take 001|BaseLayer
+    7400568: Box25911|Group_023|Take 001|BaseLayer
+    7400570: Box25911|Group_024|Take 001|BaseLayer
+    7400572: Box25911|Group_025|Take 001|BaseLayer
+    7400574: Box25911|Group_026|Take 001|BaseLayer
+    7400576: Box25911|Group_028|Take 001|BaseLayer
+    7400578: Box25911|Group_032|Take 001|BaseLayer
+    7400580: Box25911|Group_038|Take 001|BaseLayer
+    7400582: Box25911|Group_039|Take 001|BaseLayer
+    7400584: Box25911|Group_040|Take 001|BaseLayer
+    7400586: Box25911|Group_042|Take 001|BaseLayer
+    7400588: Box25911|Layer:07Arredi.001|Take 001|BaseLayer
+    7400590: Box25911|Layer:07Arredi.002|Take 001|BaseLayer
+    7400592: Box25911|Layer:arredo|Take 001|BaseLayer
+    7400594: Box25911|Line002|Take 001|BaseLayer
+    7400596: Box25911|Line008|Take 001|BaseLayer
+    7400598: Box25911|Line009|Take 001|BaseLayer
+    7400600: Box25911|Line010|Take 001|BaseLayer
+    7400602: Box25911|Line011|Take 001|BaseLayer
+    7400604: Box25911|Line012|Take 001|BaseLayer
+    7400606: Box25911|Line013|Take 001|BaseLayer
+    7400608: Box25911|Line014|Take 001|BaseLayer
+    7400610: Box25911|Line018|Take 001|BaseLayer
+    7400612: Box25911|Line019|Take 001|BaseLayer
+    7400614: Box25911|Line020|Take 001|BaseLayer
+    7400616: Box25911|Line021|Take 001|BaseLayer
+    7400618: Box25911|Line025|Take 001|BaseLayer
+    7400620: Box25911|Line02|Take 001|BaseLayer
+    7400622: Box25911|Line048.Li001|Take 001|BaseLayer
+    7400624: Box25911|Line049.Li001|Take 001|BaseLayer
+    7400626: Box25911|Line053.Li002|Take 001|BaseLayer
+    7400628: Box25911|Line054.Li|Take 001|BaseLayer
+    7400630: Box25911|Line057|Take 001|BaseLayer
+    7400632: Box25911|Line059|Take 001|BaseLayer
+    7400634: Box25911|Line060|Take 001|BaseLayer
+    7400636: Box25911|Line19181|Take 001|BaseLayer
+    7400638: Box25911|Object003|Take 001|BaseLayer
+    7400640: Box25911|Object007|Take 001|BaseLayer
+    7400642: Box25911|Object008|Take 001|BaseLayer
+    7400644: Box25911|Object009|Take 001|BaseLayer
+    7400646: Box25911|Object010|Take 001|BaseLayer
+    7400648: Box25911|Object011|Take 001|BaseLayer
+    7400650: Box25911|Object012|Take 001|BaseLayer
+    7400652: Box25911|Object01|Take 001|BaseLayer
+    7400654: Box25911|Object03.002|Take 001|BaseLayer
+    7400656: Box25911|Object034|Take 001|BaseLayer
+    7400658: Box25911|Object035|Take 001|BaseLayer
+    7400660: Box25911|Object04.001|Take 001|BaseLayer
+    7400662: Box25911|Object04|Take 001|BaseLayer
+    7400664: Box25911|Object05.001|Take 001|BaseLayer
+    7400666: Box25911|Object05|Take 001|BaseLayer
+    7400668: Box25911|Object10|Take 001|BaseLayer
+    7400670: Box25911|Object11|Take 001|BaseLayer
+    7400672: Box25911|panel_Nard|Take 001|BaseLayer
+    7400674: Box25911|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7400676: Box25911|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7400678: Box25911|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7400680: Box25911|Plane02#1_001|Take 001|BaseLayer
+    7400682: Box25911|Plane12|Take 001|BaseLayer
+    7400684: Box25911|Rectangl030|Take 001|BaseLayer
+    7400686: Box25911|Rectangl032|Take 001|BaseLayer
+    7400688: Box25911|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7400690: Box25911|Rectangle005|Take 001|BaseLayer
+    7400692: Box25911|Rectangle007|Take 001|BaseLayer
+    7400694: Box25911|Rectangle016|Take 001|BaseLayer
+    7400696: Box25911|Rectangle019|Take 001|BaseLayer
+    7400698: Box25911|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7400700: Box25911|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7400702: Box25911|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7400704: Box25911|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7400706: Box25911|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7400708: Box25911|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7400710: Box25911|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7400712: Box25911|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7400714: Box25911|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7400716: Box25911|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7400718: Box25911|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7400720: Box25911|Rectangle6647|Take 001|BaseLayer
+    7400722: Box25911|Rectangle6649|Take 001|BaseLayer
+    7400724: Box25911|Rectangle6652|Take 001|BaseLayer
+    7400726: Box25911|Rectangle6654|Take 001|BaseLayer
+    7400728: Box25911|Rectangle6655|Take 001|BaseLayer
+    7400730: Box25911|Rectangle6657|Take 001|BaseLayer
+    7400732: Box25911|Rectangle6659|Take 001|BaseLayer
+    7400734: Box25911|Rectangle6660|Take 001|BaseLayer
+    7400736: Box25911|Shape004|Take 001|BaseLayer
+    7400738: Box25911|Shape01|Take 001|BaseLayer
+    7400740: Box25911|Shape02|Take 001|BaseLayer
+    7400742: Box25911|Side Chair001|Take 001|BaseLayer
+    7400744: Box25911|Side Chair004|Take 001|BaseLayer
+    7400746: Box25911|Side Chair005|Take 001|BaseLayer
+    7400748: Box25911|Side Chair006|Take 001|BaseLayer
+    7400750: Box25911|Side Chair007|Take 001|BaseLayer
+    7400752: Box25911|Sphere004|Take 001|BaseLayer
+    7400754: Box25911|sub004|Take 001|BaseLayer
+    7400756: Box25911|Torus001|Take 001|BaseLayer
+    7400758: Box25911|Tripod lamp|Take 001|BaseLayer
+    7400760: Box25911|Tube229|Take 001|BaseLayer
+    7400762: Box25911|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7400764: Box25911|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7400766: Box25911|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7400768: Box25911|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7400770: Box25911|zerkal_05|Take 001|BaseLayer
+    7400772: Box25909|Arc01.Arc003|Take 001|BaseLayer
+    7400774: Box25909|Bar Stool001|Take 001|BaseLayer
+    7400776: Box25909|be-Easy ta|Take 001|BaseLayer
+    7400778: "Box25909|Block:bid\xE8|Take 001|BaseLayer"
+    7400780: Box25909|Block:divano|Take 001|BaseLayer
+    7400782: Box25909|Box002|Take 001|BaseLayer
+    7400784: Box25909|Box005|Take 001|BaseLayer
+    7400786: Box25909|Box007|Take 001|BaseLayer
+    7400788: Box25909|Box009|Take 001|BaseLayer
+    7400790: Box25909|Box012|Take 001|BaseLayer
+    7400792: Box25909|Box016|Take 001|BaseLayer
+    7400794: Box25909|Box018|Take 001|BaseLayer
+    7400796: Box25909|Box019|Take 001|BaseLayer
+    7400798: Box25909|Box2226.Bo001|Take 001|BaseLayer
+    7400800: Box25909|Box2226.Bo|Take 001|BaseLayer
+    7400802: Box25909|Box25884|Take 001|BaseLayer
+    7400804: Box25909|Box25885|Take 001|BaseLayer
+    7400806: Box25909|Box25887|Take 001|BaseLayer
+    7400808: Box25909|Box25889|Take 001|BaseLayer
+    7400810: Box25909|Box25890|Take 001|BaseLayer
+    7400812: Box25909|Box25891|Take 001|BaseLayer
+    7400814: Box25909|Box25892|Take 001|BaseLayer
+    7400816: Box25909|Box25894|Take 001|BaseLayer
+    7400818: Box25909|Box25898|Take 001|BaseLayer
+    7400820: Box25909|Box25902|Take 001|BaseLayer
+    7400822: Box25909|Box25903|Take 001|BaseLayer
+    7400824: Box25909|Box25907|Take 001|BaseLayer
+    7400826: Box25909|Box25909|Take 001|BaseLayer
+    7400828: Box25909|Box25911|Take 001|BaseLayer
+    7400830: Box25909|Box263|Take 001|BaseLayer
+    7400832: Box25909|Box264|Take 001|BaseLayer
+    7400834: Box25909|Box265|Take 001|BaseLayer
+    7400836: Box25909|Box270|Take 001|BaseLayer
+    7400838: Box25909|Box277|Take 001|BaseLayer
+    7400840: Box25909|Box279|Take 001|BaseLayer
+    7400842: Box25909|Box280|Take 001|BaseLayer
+    7400844: Box25909|Box286|Take 001|BaseLayer
+    7400846: Box25909|Box287|Take 001|BaseLayer
+    7400848: Box25909|Box288|Take 001|BaseLayer
+    7400850: Box25909|Box293|Take 001|BaseLayer
+    7400852: Box25909|Box294|Take 001|BaseLayer
+    7400854: Box25909|Box296|Take 001|BaseLayer
+    7400856: Box25909|Box301|Take 001|BaseLayer
+    7400858: Box25909|Box303|Take 001|BaseLayer
+    7400860: Box25909|Camera001.Target|Take 001|BaseLayer
+    7400862: Box25909|Camera001|Take 001|BaseLayer
+    7400864: Box25909|Circle001.001|Take 001|BaseLayer
+    7400866: Box25909|Circle002.001|Take 001|BaseLayer
+    7400868: Box25909|Circle003.001|Take 001|BaseLayer
+    7400870: Box25909|Circle004|Take 001|BaseLayer
+    7400872: Box25909|Circle013|Take 001|BaseLayer
+    7400874: Box25909|Circle015|Take 001|BaseLayer
+    7400876: Box25909|Component#.Component003|Take 001|BaseLayer
+    7400878: Box25909|Component#.Component004|Take 001|BaseLayer
+    7400880: Box25909|Component#.Component006|Take 001|BaseLayer
+    7400882: Box25909|Component#002|Take 001|BaseLayer
+    7400884: Box25909|Component#006|Take 001|BaseLayer
+    7400886: Box25909|Component#|Take 001|BaseLayer
+    7400888: Box25909|Cylinder007|Take 001|BaseLayer
+    7400890: Box25909|Cylinder00|Take 001|BaseLayer
+    7400892: Box25909|Cylinder010|Take 001|BaseLayer
+    7400894: Box25909|Cylinder01|Take 001|BaseLayer
+    7400896: Box25909|Group#4_005|Take 001|BaseLayer
+    7400898: Box25909|Group#4_00|Take 001|BaseLayer
+    7400900: Box25909|Group003|Take 001|BaseLayer
+    7400902: Box25909|Group004|Take 001|BaseLayer
+    7400904: Box25909|Group010|Take 001|BaseLayer
+    7400906: Box25909|Group011|Take 001|BaseLayer
+    7400908: Box25909|Group020|Take 001|BaseLayer
+    7400910: Box25909|Group022|Take 001|BaseLayer
+    7400912: Box25909|Group023|Take 001|BaseLayer
+    7400914: Box25909|Group025|Take 001|BaseLayer
+    7400916: Box25909|Group028|Take 001|BaseLayer
+    7400918: Box25909|Group029|Take 001|BaseLayer
+    7400920: Box25909|Group030|Take 001|BaseLayer
+    7400922: Box25909|Group034|Take 001|BaseLayer
+    7400924: Box25909|Group04|Take 001|BaseLayer
+    7400926: Box25909|Group_002ddd|Take 001|BaseLayer
+    7400928: Box25909|Group_002sdv002|Take 001|BaseLayer
+    7400930: Box25909|Group_002sdv|Take 001|BaseLayer
+    7400932: Box25909|Group_002|Take 001|BaseLayer
+    7400934: Box25909|Group_003|Take 001|BaseLayer
+    7400936: Box25909|Group_007|Take 001|BaseLayer
+    7400938: Box25909|Group_008.Group_006|Take 001|BaseLayer
+    7400940: Box25909|Group_008|Take 001|BaseLayer
+    7400942: Box25909|Group_009.Group_011|Take 001|BaseLayer
+    7400944: Box25909|Group_015|Take 001|BaseLayer
+    7400946: Box25909|Group_016|Take 001|BaseLayer
+    7400948: Box25909|Group_020|Take 001|BaseLayer
+    7400950: Box25909|Group_021|Take 001|BaseLayer
+    7400952: Box25909|Group_022|Take 001|BaseLayer
+    7400954: Box25909|Group_023|Take 001|BaseLayer
+    7400956: Box25909|Group_024|Take 001|BaseLayer
+    7400958: Box25909|Group_025|Take 001|BaseLayer
+    7400960: Box25909|Group_026|Take 001|BaseLayer
+    7400962: Box25909|Group_028|Take 001|BaseLayer
+    7400964: Box25909|Group_032|Take 001|BaseLayer
+    7400966: Box25909|Group_038|Take 001|BaseLayer
+    7400968: Box25909|Group_039|Take 001|BaseLayer
+    7400970: Box25909|Group_040|Take 001|BaseLayer
+    7400972: Box25909|Group_042|Take 001|BaseLayer
+    7400974: Box25909|Layer:07Arredi.001|Take 001|BaseLayer
+    7400976: Box25909|Layer:07Arredi.002|Take 001|BaseLayer
+    7400978: Box25909|Layer:arredo|Take 001|BaseLayer
+    7400980: Box25909|Line002|Take 001|BaseLayer
+    7400982: Box25909|Line008|Take 001|BaseLayer
+    7400984: Box25909|Line009|Take 001|BaseLayer
+    7400986: Box25909|Line010|Take 001|BaseLayer
+    7400988: Box25909|Line011|Take 001|BaseLayer
+    7400990: Box25909|Line012|Take 001|BaseLayer
+    7400992: Box25909|Line013|Take 001|BaseLayer
+    7400994: Box25909|Line014|Take 001|BaseLayer
+    7400996: Box25909|Line018|Take 001|BaseLayer
+    7400998: Box25909|Line019|Take 001|BaseLayer
+    7401000: Box25909|Line020|Take 001|BaseLayer
+    7401002: Box25909|Line021|Take 001|BaseLayer
+    7401004: Box25909|Line025|Take 001|BaseLayer
+    7401006: Box25909|Line02|Take 001|BaseLayer
+    7401008: Box25909|Line048.Li001|Take 001|BaseLayer
+    7401010: Box25909|Line049.Li001|Take 001|BaseLayer
+    7401012: Box25909|Line053.Li002|Take 001|BaseLayer
+    7401014: Box25909|Line054.Li|Take 001|BaseLayer
+    7401016: Box25909|Line057|Take 001|BaseLayer
+    7401018: Box25909|Line059|Take 001|BaseLayer
+    7401020: Box25909|Line060|Take 001|BaseLayer
+    7401022: Box25909|Line19181|Take 001|BaseLayer
+    7401024: Box25909|Object003|Take 001|BaseLayer
+    7401026: Box25909|Object007|Take 001|BaseLayer
+    7401028: Box25909|Object008|Take 001|BaseLayer
+    7401030: Box25909|Object009|Take 001|BaseLayer
+    7401032: Box25909|Object010|Take 001|BaseLayer
+    7401034: Box25909|Object011|Take 001|BaseLayer
+    7401036: Box25909|Object012|Take 001|BaseLayer
+    7401038: Box25909|Object01|Take 001|BaseLayer
+    7401040: Box25909|Object03.002|Take 001|BaseLayer
+    7401042: Box25909|Object034|Take 001|BaseLayer
+    7401044: Box25909|Object035|Take 001|BaseLayer
+    7401046: Box25909|Object04.001|Take 001|BaseLayer
+    7401048: Box25909|Object04|Take 001|BaseLayer
+    7401050: Box25909|Object05.001|Take 001|BaseLayer
+    7401052: Box25909|Object05|Take 001|BaseLayer
+    7401054: Box25909|Object10|Take 001|BaseLayer
+    7401056: Box25909|Object11|Take 001|BaseLayer
+    7401058: Box25909|panel_Nard|Take 001|BaseLayer
+    7401060: Box25909|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7401062: Box25909|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7401064: Box25909|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7401066: Box25909|Plane02#1_001|Take 001|BaseLayer
+    7401068: Box25909|Plane12|Take 001|BaseLayer
+    7401070: Box25909|Rectangl030|Take 001|BaseLayer
+    7401072: Box25909|Rectangl032|Take 001|BaseLayer
+    7401074: Box25909|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7401076: Box25909|Rectangle005|Take 001|BaseLayer
+    7401078: Box25909|Rectangle007|Take 001|BaseLayer
+    7401080: Box25909|Rectangle016|Take 001|BaseLayer
+    7401082: Box25909|Rectangle019|Take 001|BaseLayer
+    7401084: Box25909|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7401086: Box25909|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7401088: Box25909|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7401090: Box25909|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7401092: Box25909|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7401094: Box25909|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7401096: Box25909|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7401098: Box25909|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7401100: Box25909|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7401102: Box25909|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7401104: Box25909|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7401106: Box25909|Rectangle6647|Take 001|BaseLayer
+    7401108: Box25909|Rectangle6649|Take 001|BaseLayer
+    7401110: Box25909|Rectangle6652|Take 001|BaseLayer
+    7401112: Box25909|Rectangle6654|Take 001|BaseLayer
+    7401114: Box25909|Rectangle6655|Take 001|BaseLayer
+    7401116: Box25909|Rectangle6657|Take 001|BaseLayer
+    7401118: Box25909|Rectangle6659|Take 001|BaseLayer
+    7401120: Box25909|Rectangle6660|Take 001|BaseLayer
+    7401122: Box25909|Shape004|Take 001|BaseLayer
+    7401124: Box25909|Shape01|Take 001|BaseLayer
+    7401126: Box25909|Shape02|Take 001|BaseLayer
+    7401128: Box25909|Side Chair001|Take 001|BaseLayer
+    7401130: Box25909|Side Chair004|Take 001|BaseLayer
+    7401132: Box25909|Side Chair005|Take 001|BaseLayer
+    7401134: Box25909|Side Chair006|Take 001|BaseLayer
+    7401136: Box25909|Side Chair007|Take 001|BaseLayer
+    7401138: Box25909|Sphere004|Take 001|BaseLayer
+    7401140: Box25909|sub004|Take 001|BaseLayer
+    7401142: Box25909|Torus001|Take 001|BaseLayer
+    7401144: Box25909|Tripod lamp|Take 001|BaseLayer
+    7401146: Box25909|Tube229|Take 001|BaseLayer
+    7401148: Box25909|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7401150: Box25909|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7401152: Box25909|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7401154: Box25909|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7401156: Box25909|zerkal_05|Take 001|BaseLayer
+    7401158: Box25907|Arc01.Arc003|Take 001|BaseLayer
+    7401160: Box25907|Bar Stool001|Take 001|BaseLayer
+    7401162: Box25907|be-Easy ta|Take 001|BaseLayer
+    7401164: "Box25907|Block:bid\xE8|Take 001|BaseLayer"
+    7401166: Box25907|Block:divano|Take 001|BaseLayer
+    7401168: Box25907|Box002|Take 001|BaseLayer
+    7401170: Box25907|Box005|Take 001|BaseLayer
+    7401172: Box25907|Box007|Take 001|BaseLayer
+    7401174: Box25907|Box009|Take 001|BaseLayer
+    7401176: Box25907|Box012|Take 001|BaseLayer
+    7401178: Box25907|Box016|Take 001|BaseLayer
+    7401180: Box25907|Box018|Take 001|BaseLayer
+    7401182: Box25907|Box019|Take 001|BaseLayer
+    7401184: Box25907|Box2226.Bo001|Take 001|BaseLayer
+    7401186: Box25907|Box2226.Bo|Take 001|BaseLayer
+    7401188: Box25907|Box25884|Take 001|BaseLayer
+    7401190: Box25907|Box25885|Take 001|BaseLayer
+    7401192: Box25907|Box25887|Take 001|BaseLayer
+    7401194: Box25907|Box25889|Take 001|BaseLayer
+    7401196: Box25907|Box25890|Take 001|BaseLayer
+    7401198: Box25907|Box25891|Take 001|BaseLayer
+    7401200: Box25907|Box25892|Take 001|BaseLayer
+    7401202: Box25907|Box25894|Take 001|BaseLayer
+    7401204: Box25907|Box25898|Take 001|BaseLayer
+    7401206: Box25907|Box25902|Take 001|BaseLayer
+    7401208: Box25907|Box25903|Take 001|BaseLayer
+    7401210: Box25907|Box25907|Take 001|BaseLayer
+    7401212: Box25907|Box25909|Take 001|BaseLayer
+    7401214: Box25907|Box25911|Take 001|BaseLayer
+    7401216: Box25907|Box263|Take 001|BaseLayer
+    7401218: Box25907|Box264|Take 001|BaseLayer
+    7401220: Box25907|Box265|Take 001|BaseLayer
+    7401222: Box25907|Box270|Take 001|BaseLayer
+    7401224: Box25907|Box277|Take 001|BaseLayer
+    7401226: Box25907|Box279|Take 001|BaseLayer
+    7401228: Box25907|Box280|Take 001|BaseLayer
+    7401230: Box25907|Box286|Take 001|BaseLayer
+    7401232: Box25907|Box287|Take 001|BaseLayer
+    7401234: Box25907|Box288|Take 001|BaseLayer
+    7401236: Box25907|Box293|Take 001|BaseLayer
+    7401238: Box25907|Box294|Take 001|BaseLayer
+    7401240: Box25907|Box296|Take 001|BaseLayer
+    7401242: Box25907|Box301|Take 001|BaseLayer
+    7401244: Box25907|Box303|Take 001|BaseLayer
+    7401246: Box25907|Camera001.Target|Take 001|BaseLayer
+    7401248: Box25907|Camera001|Take 001|BaseLayer
+    7401250: Box25907|Circle001.001|Take 001|BaseLayer
+    7401252: Box25907|Circle002.001|Take 001|BaseLayer
+    7401254: Box25907|Circle003.001|Take 001|BaseLayer
+    7401256: Box25907|Circle004|Take 001|BaseLayer
+    7401258: Box25907|Circle013|Take 001|BaseLayer
+    7401260: Box25907|Circle015|Take 001|BaseLayer
+    7401262: Box25907|Component#.Component003|Take 001|BaseLayer
+    7401264: Box25907|Component#.Component004|Take 001|BaseLayer
+    7401266: Box25907|Component#.Component006|Take 001|BaseLayer
+    7401268: Box25907|Component#002|Take 001|BaseLayer
+    7401270: Box25907|Component#006|Take 001|BaseLayer
+    7401272: Box25907|Component#|Take 001|BaseLayer
+    7401274: Box25907|Cylinder007|Take 001|BaseLayer
+    7401276: Box25907|Cylinder00|Take 001|BaseLayer
+    7401278: Box25907|Cylinder010|Take 001|BaseLayer
+    7401280: Box25907|Cylinder01|Take 001|BaseLayer
+    7401282: Box25907|Group#4_005|Take 001|BaseLayer
+    7401284: Box25907|Group#4_00|Take 001|BaseLayer
+    7401286: Box25907|Group003|Take 001|BaseLayer
+    7401288: Box25907|Group004|Take 001|BaseLayer
+    7401290: Box25907|Group010|Take 001|BaseLayer
+    7401292: Box25907|Group011|Take 001|BaseLayer
+    7401294: Box25907|Group020|Take 001|BaseLayer
+    7401296: Box25907|Group022|Take 001|BaseLayer
+    7401298: Box25907|Group023|Take 001|BaseLayer
+    7401300: Box25907|Group025|Take 001|BaseLayer
+    7401302: Box25907|Group028|Take 001|BaseLayer
+    7401304: Box25907|Group029|Take 001|BaseLayer
+    7401306: Box25907|Group030|Take 001|BaseLayer
+    7401308: Box25907|Group034|Take 001|BaseLayer
+    7401310: Box25907|Group04|Take 001|BaseLayer
+    7401312: Box25907|Group_002ddd|Take 001|BaseLayer
+    7401314: Box25907|Group_002sdv002|Take 001|BaseLayer
+    7401316: Box25907|Group_002sdv|Take 001|BaseLayer
+    7401318: Box25907|Group_002|Take 001|BaseLayer
+    7401320: Box25907|Group_003|Take 001|BaseLayer
+    7401322: Box25907|Group_007|Take 001|BaseLayer
+    7401324: Box25907|Group_008.Group_006|Take 001|BaseLayer
+    7401326: Box25907|Group_008|Take 001|BaseLayer
+    7401328: Box25907|Group_009.Group_011|Take 001|BaseLayer
+    7401330: Box25907|Group_015|Take 001|BaseLayer
+    7401332: Box25907|Group_016|Take 001|BaseLayer
+    7401334: Box25907|Group_020|Take 001|BaseLayer
+    7401336: Box25907|Group_021|Take 001|BaseLayer
+    7401338: Box25907|Group_022|Take 001|BaseLayer
+    7401340: Box25907|Group_023|Take 001|BaseLayer
+    7401342: Box25907|Group_024|Take 001|BaseLayer
+    7401344: Box25907|Group_025|Take 001|BaseLayer
+    7401346: Box25907|Group_026|Take 001|BaseLayer
+    7401348: Box25907|Group_028|Take 001|BaseLayer
+    7401350: Box25907|Group_032|Take 001|BaseLayer
+    7401352: Box25907|Group_038|Take 001|BaseLayer
+    7401354: Box25907|Group_039|Take 001|BaseLayer
+    7401356: Box25907|Group_040|Take 001|BaseLayer
+    7401358: Box25907|Group_042|Take 001|BaseLayer
+    7401360: Box25907|Layer:07Arredi.001|Take 001|BaseLayer
+    7401362: Box25907|Layer:07Arredi.002|Take 001|BaseLayer
+    7401364: Box25907|Layer:arredo|Take 001|BaseLayer
+    7401366: Box25907|Line002|Take 001|BaseLayer
+    7401368: Box25907|Line008|Take 001|BaseLayer
+    7401370: Box25907|Line009|Take 001|BaseLayer
+    7401372: Box25907|Line010|Take 001|BaseLayer
+    7401374: Box25907|Line011|Take 001|BaseLayer
+    7401376: Box25907|Line012|Take 001|BaseLayer
+    7401378: Box25907|Line013|Take 001|BaseLayer
+    7401380: Box25907|Line014|Take 001|BaseLayer
+    7401382: Box25907|Line018|Take 001|BaseLayer
+    7401384: Box25907|Line019|Take 001|BaseLayer
+    7401386: Box25907|Line020|Take 001|BaseLayer
+    7401388: Box25907|Line021|Take 001|BaseLayer
+    7401390: Box25907|Line025|Take 001|BaseLayer
+    7401392: Box25907|Line02|Take 001|BaseLayer
+    7401394: Box25907|Line048.Li001|Take 001|BaseLayer
+    7401396: Box25907|Line049.Li001|Take 001|BaseLayer
+    7401398: Box25907|Line053.Li002|Take 001|BaseLayer
+    7401400: Box25907|Line054.Li|Take 001|BaseLayer
+    7401402: Box25907|Line057|Take 001|BaseLayer
+    7401404: Box25907|Line059|Take 001|BaseLayer
+    7401406: Box25907|Line060|Take 001|BaseLayer
+    7401408: Box25907|Line19181|Take 001|BaseLayer
+    7401410: Box25907|Object003|Take 001|BaseLayer
+    7401412: Box25907|Object007|Take 001|BaseLayer
+    7401414: Box25907|Object008|Take 001|BaseLayer
+    7401416: Box25907|Object009|Take 001|BaseLayer
+    7401418: Box25907|Object010|Take 001|BaseLayer
+    7401420: Box25907|Object011|Take 001|BaseLayer
+    7401422: Box25907|Object012|Take 001|BaseLayer
+    7401424: Box25907|Object01|Take 001|BaseLayer
+    7401426: Box25907|Object03.002|Take 001|BaseLayer
+    7401428: Box25907|Object034|Take 001|BaseLayer
+    7401430: Box25907|Object035|Take 001|BaseLayer
+    7401432: Box25907|Object04.001|Take 001|BaseLayer
+    7401434: Box25907|Object04|Take 001|BaseLayer
+    7401436: Box25907|Object05.001|Take 001|BaseLayer
+    7401438: Box25907|Object05|Take 001|BaseLayer
+    7401440: Box25907|Object10|Take 001|BaseLayer
+    7401442: Box25907|Object11|Take 001|BaseLayer
+    7401444: Box25907|panel_Nard|Take 001|BaseLayer
+    7401446: Box25907|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7401448: Box25907|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7401450: Box25907|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7401452: Box25907|Plane02#1_001|Take 001|BaseLayer
+    7401454: Box25907|Plane12|Take 001|BaseLayer
+    7401456: Box25907|Rectangl030|Take 001|BaseLayer
+    7401458: Box25907|Rectangl032|Take 001|BaseLayer
+    7401460: Box25907|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7401462: Box25907|Rectangle005|Take 001|BaseLayer
+    7401464: Box25907|Rectangle007|Take 001|BaseLayer
+    7401466: Box25907|Rectangle016|Take 001|BaseLayer
+    7401468: Box25907|Rectangle019|Take 001|BaseLayer
+    7401470: Box25907|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7401472: Box25907|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7401474: Box25907|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7401476: Box25907|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7401478: Box25907|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7401480: Box25907|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7401482: Box25907|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7401484: Box25907|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7401486: Box25907|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7401488: Box25907|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7401490: Box25907|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7401492: Box25907|Rectangle6647|Take 001|BaseLayer
+    7401494: Box25907|Rectangle6649|Take 001|BaseLayer
+    7401496: Box25907|Rectangle6652|Take 001|BaseLayer
+    7401498: Box25907|Rectangle6654|Take 001|BaseLayer
+    7401500: Box25907|Rectangle6655|Take 001|BaseLayer
+    7401502: Box25907|Rectangle6657|Take 001|BaseLayer
+    7401504: Box25907|Rectangle6659|Take 001|BaseLayer
+    7401506: Box25907|Rectangle6660|Take 001|BaseLayer
+    7401508: Box25907|Shape004|Take 001|BaseLayer
+    7401510: Box25907|Shape01|Take 001|BaseLayer
+    7401512: Box25907|Shape02|Take 001|BaseLayer
+    7401514: Box25907|Side Chair001|Take 001|BaseLayer
+    7401516: Box25907|Side Chair004|Take 001|BaseLayer
+    7401518: Box25907|Side Chair005|Take 001|BaseLayer
+    7401520: Box25907|Side Chair006|Take 001|BaseLayer
+    7401522: Box25907|Side Chair007|Take 001|BaseLayer
+    7401524: Box25907|Sphere004|Take 001|BaseLayer
+    7401526: Box25907|sub004|Take 001|BaseLayer
+    7401528: Box25907|Torus001|Take 001|BaseLayer
+    7401530: Box25907|Tripod lamp|Take 001|BaseLayer
+    7401532: Box25907|Tube229|Take 001|BaseLayer
+    7401534: Box25907|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7401536: Box25907|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7401538: Box25907|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7401540: Box25907|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7401542: Box25907|zerkal_05|Take 001|BaseLayer
+    7401544: Box25903|Arc01.Arc003|Take 001|BaseLayer
+    7401546: Box25903|Bar Stool001|Take 001|BaseLayer
+    7401548: Box25903|be-Easy ta|Take 001|BaseLayer
+    7401550: "Box25903|Block:bid\xE8|Take 001|BaseLayer"
+    7401552: Box25903|Block:divano|Take 001|BaseLayer
+    7401554: Box25903|Box002|Take 001|BaseLayer
+    7401556: Box25903|Box005|Take 001|BaseLayer
+    7401558: Box25903|Box007|Take 001|BaseLayer
+    7401560: Box25903|Box009|Take 001|BaseLayer
+    7401562: Box25903|Box012|Take 001|BaseLayer
+    7401564: Box25903|Box016|Take 001|BaseLayer
+    7401566: Box25903|Box018|Take 001|BaseLayer
+    7401568: Box25903|Box019|Take 001|BaseLayer
+    7401570: Box25903|Box2226.Bo001|Take 001|BaseLayer
+    7401572: Box25903|Box2226.Bo|Take 001|BaseLayer
+    7401574: Box25903|Box25884|Take 001|BaseLayer
+    7401576: Box25903|Box25885|Take 001|BaseLayer
+    7401578: Box25903|Box25887|Take 001|BaseLayer
+    7401580: Box25903|Box25889|Take 001|BaseLayer
+    7401582: Box25903|Box25890|Take 001|BaseLayer
+    7401584: Box25903|Box25891|Take 001|BaseLayer
+    7401586: Box25903|Box25892|Take 001|BaseLayer
+    7401588: Box25903|Box25894|Take 001|BaseLayer
+    7401590: Box25903|Box25898|Take 001|BaseLayer
+    7401592: Box25903|Box25902|Take 001|BaseLayer
+    7401594: Box25903|Box25903|Take 001|BaseLayer
+    7401596: Box25903|Box25907|Take 001|BaseLayer
+    7401598: Box25903|Box25909|Take 001|BaseLayer
+    7401600: Box25903|Box25911|Take 001|BaseLayer
+    7401602: Box25903|Box263|Take 001|BaseLayer
+    7401604: Box25903|Box264|Take 001|BaseLayer
+    7401606: Box25903|Box265|Take 001|BaseLayer
+    7401608: Box25903|Box270|Take 001|BaseLayer
+    7401610: Box25903|Box277|Take 001|BaseLayer
+    7401612: Box25903|Box279|Take 001|BaseLayer
+    7401614: Box25903|Box280|Take 001|BaseLayer
+    7401616: Box25903|Box286|Take 001|BaseLayer
+    7401618: Box25903|Box287|Take 001|BaseLayer
+    7401620: Box25903|Box288|Take 001|BaseLayer
+    7401622: Box25903|Box293|Take 001|BaseLayer
+    7401624: Box25903|Box294|Take 001|BaseLayer
+    7401626: Box25903|Box296|Take 001|BaseLayer
+    7401628: Box25903|Box301|Take 001|BaseLayer
+    7401630: Box25903|Box303|Take 001|BaseLayer
+    7401632: Box25903|Camera001.Target|Take 001|BaseLayer
+    7401634: Box25903|Camera001|Take 001|BaseLayer
+    7401636: Box25903|Circle001.001|Take 001|BaseLayer
+    7401638: Box25903|Circle002.001|Take 001|BaseLayer
+    7401640: Box25903|Circle003.001|Take 001|BaseLayer
+    7401642: Box25903|Circle004|Take 001|BaseLayer
+    7401644: Box25903|Circle013|Take 001|BaseLayer
+    7401646: Box25903|Circle015|Take 001|BaseLayer
+    7401648: Box25903|Component#.Component003|Take 001|BaseLayer
+    7401650: Box25903|Component#.Component004|Take 001|BaseLayer
+    7401652: Box25903|Component#.Component006|Take 001|BaseLayer
+    7401654: Box25903|Component#002|Take 001|BaseLayer
+    7401656: Box25903|Component#006|Take 001|BaseLayer
+    7401658: Box25903|Component#|Take 001|BaseLayer
+    7401660: Box25903|Cylinder007|Take 001|BaseLayer
+    7401662: Box25903|Cylinder00|Take 001|BaseLayer
+    7401664: Box25903|Cylinder010|Take 001|BaseLayer
+    7401666: Box25903|Cylinder01|Take 001|BaseLayer
+    7401668: Box25903|Group#4_005|Take 001|BaseLayer
+    7401670: Box25903|Group#4_00|Take 001|BaseLayer
+    7401672: Box25903|Group003|Take 001|BaseLayer
+    7401674: Box25903|Group004|Take 001|BaseLayer
+    7401676: Box25903|Group010|Take 001|BaseLayer
+    7401678: Box25903|Group011|Take 001|BaseLayer
+    7401680: Box25903|Group020|Take 001|BaseLayer
+    7401682: Box25903|Group022|Take 001|BaseLayer
+    7401684: Box25903|Group023|Take 001|BaseLayer
+    7401686: Box25903|Group025|Take 001|BaseLayer
+    7401688: Box25903|Group028|Take 001|BaseLayer
+    7401690: Box25903|Group029|Take 001|BaseLayer
+    7401692: Box25903|Group030|Take 001|BaseLayer
+    7401694: Box25903|Group034|Take 001|BaseLayer
+    7401696: Box25903|Group04|Take 001|BaseLayer
+    7401698: Box25903|Group_002ddd|Take 001|BaseLayer
+    7401700: Box25903|Group_002sdv002|Take 001|BaseLayer
+    7401702: Box25903|Group_002sdv|Take 001|BaseLayer
+    7401704: Box25903|Group_002|Take 001|BaseLayer
+    7401706: Box25903|Group_003|Take 001|BaseLayer
+    7401708: Box25903|Group_007|Take 001|BaseLayer
+    7401710: Box25903|Group_008.Group_006|Take 001|BaseLayer
+    7401712: Box25903|Group_008|Take 001|BaseLayer
+    7401714: Box25903|Group_009.Group_011|Take 001|BaseLayer
+    7401716: Box25903|Group_015|Take 001|BaseLayer
+    7401718: Box25903|Group_016|Take 001|BaseLayer
+    7401720: Box25903|Group_020|Take 001|BaseLayer
+    7401722: Box25903|Group_021|Take 001|BaseLayer
+    7401724: Box25903|Group_022|Take 001|BaseLayer
+    7401726: Box25903|Group_023|Take 001|BaseLayer
+    7401728: Box25903|Group_024|Take 001|BaseLayer
+    7401730: Box25903|Group_025|Take 001|BaseLayer
+    7401732: Box25903|Group_026|Take 001|BaseLayer
+    7401734: Box25903|Group_028|Take 001|BaseLayer
+    7401736: Box25903|Group_032|Take 001|BaseLayer
+    7401738: Box25903|Group_038|Take 001|BaseLayer
+    7401740: Box25903|Group_039|Take 001|BaseLayer
+    7401742: Box25903|Group_040|Take 001|BaseLayer
+    7401744: Box25903|Group_042|Take 001|BaseLayer
+    7401746: Box25903|Layer:07Arredi.001|Take 001|BaseLayer
+    7401748: Box25903|Layer:07Arredi.002|Take 001|BaseLayer
+    7401750: Box25903|Layer:arredo|Take 001|BaseLayer
+    7401752: Box25903|Line002|Take 001|BaseLayer
+    7401754: Box25903|Line008|Take 001|BaseLayer
+    7401756: Box25903|Line009|Take 001|BaseLayer
+    7401758: Box25903|Line010|Take 001|BaseLayer
+    7401760: Box25903|Line011|Take 001|BaseLayer
+    7401762: Box25903|Line012|Take 001|BaseLayer
+    7401764: Box25903|Line013|Take 001|BaseLayer
+    7401766: Box25903|Line014|Take 001|BaseLayer
+    7401768: Box25903|Line018|Take 001|BaseLayer
+    7401770: Box25903|Line019|Take 001|BaseLayer
+    7401772: Box25903|Line020|Take 001|BaseLayer
+    7401774: Box25903|Line021|Take 001|BaseLayer
+    7401776: Box25903|Line025|Take 001|BaseLayer
+    7401778: Box25903|Line02|Take 001|BaseLayer
+    7401780: Box25903|Line048.Li001|Take 001|BaseLayer
+    7401782: Box25903|Line049.Li001|Take 001|BaseLayer
+    7401784: Box25903|Line053.Li002|Take 001|BaseLayer
+    7401786: Box25903|Line054.Li|Take 001|BaseLayer
+    7401788: Box25903|Line057|Take 001|BaseLayer
+    7401790: Box25903|Line059|Take 001|BaseLayer
+    7401792: Box25903|Line060|Take 001|BaseLayer
+    7401794: Box25903|Line19181|Take 001|BaseLayer
+    7401796: Box25903|Object003|Take 001|BaseLayer
+    7401798: Box25903|Object007|Take 001|BaseLayer
+    7401800: Box25903|Object008|Take 001|BaseLayer
+    7401802: Box25903|Object009|Take 001|BaseLayer
+    7401804: Box25903|Object010|Take 001|BaseLayer
+    7401806: Box25903|Object011|Take 001|BaseLayer
+    7401808: Box25903|Object012|Take 001|BaseLayer
+    7401810: Box25903|Object01|Take 001|BaseLayer
+    7401812: Box25903|Object03.002|Take 001|BaseLayer
+    7401814: Box25903|Object034|Take 001|BaseLayer
+    7401816: Box25903|Object035|Take 001|BaseLayer
+    7401818: Box25903|Object04.001|Take 001|BaseLayer
+    7401820: Box25903|Object04|Take 001|BaseLayer
+    7401822: Box25903|Object05.001|Take 001|BaseLayer
+    7401824: Box25903|Object05|Take 001|BaseLayer
+    7401826: Box25903|Object10|Take 001|BaseLayer
+    7401828: Box25903|Object11|Take 001|BaseLayer
+    7401830: Box25903|panel_Nard|Take 001|BaseLayer
+    7401832: Box25903|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7401834: Box25903|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7401836: Box25903|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7401838: Box25903|Plane02#1_001|Take 001|BaseLayer
+    7401840: Box25903|Plane12|Take 001|BaseLayer
+    7401842: Box25903|Rectangl030|Take 001|BaseLayer
+    7401844: Box25903|Rectangl032|Take 001|BaseLayer
+    7401846: Box25903|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7401848: Box25903|Rectangle005|Take 001|BaseLayer
+    7401850: Box25903|Rectangle007|Take 001|BaseLayer
+    7401852: Box25903|Rectangle016|Take 001|BaseLayer
+    7401854: Box25903|Rectangle019|Take 001|BaseLayer
+    7401856: Box25903|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7401858: Box25903|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7401860: Box25903|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7401862: Box25903|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7401864: Box25903|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7401866: Box25903|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7401868: Box25903|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7401870: Box25903|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7401872: Box25903|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7401874: Box25903|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7401876: Box25903|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7401878: Box25903|Rectangle6647|Take 001|BaseLayer
+    7401880: Box25903|Rectangle6649|Take 001|BaseLayer
+    7401882: Box25903|Rectangle6652|Take 001|BaseLayer
+    7401884: Box25903|Rectangle6654|Take 001|BaseLayer
+    7401886: Box25903|Rectangle6655|Take 001|BaseLayer
+    7401888: Box25903|Rectangle6657|Take 001|BaseLayer
+    7401890: Box25903|Rectangle6659|Take 001|BaseLayer
+    7401892: Box25903|Rectangle6660|Take 001|BaseLayer
+    7401894: Box25903|Shape004|Take 001|BaseLayer
+    7401896: Box25903|Shape01|Take 001|BaseLayer
+    7401898: Box25903|Shape02|Take 001|BaseLayer
+    7401900: Box25903|Side Chair001|Take 001|BaseLayer
+    7401902: Box25903|Side Chair004|Take 001|BaseLayer
+    7401904: Box25903|Side Chair005|Take 001|BaseLayer
+    7401906: Box25903|Side Chair006|Take 001|BaseLayer
+    7401908: Box25903|Side Chair007|Take 001|BaseLayer
+    7401910: Box25903|Sphere004|Take 001|BaseLayer
+    7401912: Box25903|sub004|Take 001|BaseLayer
+    7401914: Box25903|Torus001|Take 001|BaseLayer
+    7401916: Box25903|Tripod lamp|Take 001|BaseLayer
+    7401918: Box25903|Tube229|Take 001|BaseLayer
+    7401920: Box25903|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7401922: Box25903|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7401924: Box25903|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7401926: Box25903|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7401928: Box25903|zerkal_05|Take 001|BaseLayer
+    7401930: Box25902|Arc01.Arc003|Take 001|BaseLayer
+    7401932: Box25902|Bar Stool001|Take 001|BaseLayer
+    7401934: Box25902|be-Easy ta|Take 001|BaseLayer
+    7401936: "Box25902|Block:bid\xE8|Take 001|BaseLayer"
+    7401938: Box25902|Block:divano|Take 001|BaseLayer
+    7401940: Box25902|Box002|Take 001|BaseLayer
+    7401942: Box25902|Box005|Take 001|BaseLayer
+    7401944: Box25902|Box007|Take 001|BaseLayer
+    7401946: Box25902|Box009|Take 001|BaseLayer
+    7401948: Box25902|Box012|Take 001|BaseLayer
+    7401950: Box25902|Box016|Take 001|BaseLayer
+    7401952: Box25902|Box018|Take 001|BaseLayer
+    7401954: Box25902|Box019|Take 001|BaseLayer
+    7401956: Box25902|Box2226.Bo001|Take 001|BaseLayer
+    7401958: Box25902|Box2226.Bo|Take 001|BaseLayer
+    7401960: Box25902|Box25884|Take 001|BaseLayer
+    7401962: Box25902|Box25885|Take 001|BaseLayer
+    7401964: Box25902|Box25887|Take 001|BaseLayer
+    7401966: Box25902|Box25889|Take 001|BaseLayer
+    7401968: Box25902|Box25890|Take 001|BaseLayer
+    7401970: Box25902|Box25891|Take 001|BaseLayer
+    7401972: Box25902|Box25892|Take 001|BaseLayer
+    7401974: Box25902|Box25894|Take 001|BaseLayer
+    7401976: Box25902|Box25898|Take 001|BaseLayer
+    7401978: Box25902|Box25902|Take 001|BaseLayer
+    7401980: Box25902|Box25903|Take 001|BaseLayer
+    7401982: Box25902|Box25907|Take 001|BaseLayer
+    7401984: Box25902|Box25909|Take 001|BaseLayer
+    7401986: Box25902|Box25911|Take 001|BaseLayer
+    7401988: Box25902|Box263|Take 001|BaseLayer
+    7401990: Box25902|Box264|Take 001|BaseLayer
+    7401992: Box25902|Box265|Take 001|BaseLayer
+    7401994: Box25902|Box270|Take 001|BaseLayer
+    7401996: Box25902|Box277|Take 001|BaseLayer
+    7401998: Box25902|Box279|Take 001|BaseLayer
+    7402000: Box25902|Box280|Take 001|BaseLayer
+    7402002: Box25902|Box286|Take 001|BaseLayer
+    7402004: Box25902|Box287|Take 001|BaseLayer
+    7402006: Box25902|Box288|Take 001|BaseLayer
+    7402008: Box25902|Box293|Take 001|BaseLayer
+    7402010: Box25902|Box294|Take 001|BaseLayer
+    7402012: Box25902|Box296|Take 001|BaseLayer
+    7402014: Box25902|Box301|Take 001|BaseLayer
+    7402016: Box25902|Box303|Take 001|BaseLayer
+    7402018: Box25902|Camera001.Target|Take 001|BaseLayer
+    7402020: Box25902|Camera001|Take 001|BaseLayer
+    7402022: Box25902|Circle001.001|Take 001|BaseLayer
+    7402024: Box25902|Circle002.001|Take 001|BaseLayer
+    7402026: Box25902|Circle003.001|Take 001|BaseLayer
+    7402028: Box25902|Circle004|Take 001|BaseLayer
+    7402030: Box25902|Circle013|Take 001|BaseLayer
+    7402032: Box25902|Circle015|Take 001|BaseLayer
+    7402034: Box25902|Component#.Component003|Take 001|BaseLayer
+    7402036: Box25902|Component#.Component004|Take 001|BaseLayer
+    7402038: Box25902|Component#.Component006|Take 001|BaseLayer
+    7402040: Box25902|Component#002|Take 001|BaseLayer
+    7402042: Box25902|Component#006|Take 001|BaseLayer
+    7402044: Box25902|Component#|Take 001|BaseLayer
+    7402046: Box25902|Cylinder007|Take 001|BaseLayer
+    7402048: Box25902|Cylinder00|Take 001|BaseLayer
+    7402050: Box25902|Cylinder010|Take 001|BaseLayer
+    7402052: Box25902|Cylinder01|Take 001|BaseLayer
+    7402054: Box25902|Group#4_005|Take 001|BaseLayer
+    7402056: Box25902|Group#4_00|Take 001|BaseLayer
+    7402058: Box25902|Group003|Take 001|BaseLayer
+    7402060: Box25902|Group004|Take 001|BaseLayer
+    7402062: Box25902|Group010|Take 001|BaseLayer
+    7402064: Box25902|Group011|Take 001|BaseLayer
+    7402066: Box25902|Group020|Take 001|BaseLayer
+    7402068: Box25902|Group022|Take 001|BaseLayer
+    7402070: Box25902|Group023|Take 001|BaseLayer
+    7402072: Box25902|Group025|Take 001|BaseLayer
+    7402074: Box25902|Group028|Take 001|BaseLayer
+    7402076: Box25902|Group029|Take 001|BaseLayer
+    7402078: Box25902|Group030|Take 001|BaseLayer
+    7402080: Box25902|Group034|Take 001|BaseLayer
+    7402082: Box25902|Group04|Take 001|BaseLayer
+    7402084: Box25902|Group_002ddd|Take 001|BaseLayer
+    7402086: Box25902|Group_002sdv002|Take 001|BaseLayer
+    7402088: Box25902|Group_002sdv|Take 001|BaseLayer
+    7402090: Box25902|Group_002|Take 001|BaseLayer
+    7402092: Box25902|Group_003|Take 001|BaseLayer
+    7402094: Box25902|Group_007|Take 001|BaseLayer
+    7402096: Box25902|Group_008.Group_006|Take 001|BaseLayer
+    7402098: Box25902|Group_008|Take 001|BaseLayer
+    7402100: Box25902|Group_009.Group_011|Take 001|BaseLayer
+    7402102: Box25902|Group_015|Take 001|BaseLayer
+    7402104: Box25902|Group_016|Take 001|BaseLayer
+    7402106: Box25902|Group_020|Take 001|BaseLayer
+    7402108: Box25902|Group_021|Take 001|BaseLayer
+    7402110: Box25902|Group_022|Take 001|BaseLayer
+    7402112: Box25902|Group_023|Take 001|BaseLayer
+    7402114: Box25902|Group_024|Take 001|BaseLayer
+    7402116: Box25902|Group_025|Take 001|BaseLayer
+    7402118: Box25902|Group_026|Take 001|BaseLayer
+    7402120: Box25902|Group_028|Take 001|BaseLayer
+    7402122: Box25902|Group_032|Take 001|BaseLayer
+    7402124: Box25902|Group_038|Take 001|BaseLayer
+    7402126: Box25902|Group_039|Take 001|BaseLayer
+    7402128: Box25902|Group_040|Take 001|BaseLayer
+    7402130: Box25902|Group_042|Take 001|BaseLayer
+    7402132: Box25902|Layer:07Arredi.001|Take 001|BaseLayer
+    7402134: Box25902|Layer:07Arredi.002|Take 001|BaseLayer
+    7402136: Box25902|Layer:arredo|Take 001|BaseLayer
+    7402138: Box25902|Line002|Take 001|BaseLayer
+    7402140: Box25902|Line008|Take 001|BaseLayer
+    7402142: Box25902|Line009|Take 001|BaseLayer
+    7402144: Box25902|Line010|Take 001|BaseLayer
+    7402146: Box25902|Line011|Take 001|BaseLayer
+    7402148: Box25902|Line012|Take 001|BaseLayer
+    7402150: Box25902|Line013|Take 001|BaseLayer
+    7402152: Box25902|Line014|Take 001|BaseLayer
+    7402154: Box25902|Line018|Take 001|BaseLayer
+    7402156: Box25902|Line019|Take 001|BaseLayer
+    7402158: Box25902|Line020|Take 001|BaseLayer
+    7402160: Box25902|Line021|Take 001|BaseLayer
+    7402162: Box25902|Line025|Take 001|BaseLayer
+    7402164: Box25902|Line02|Take 001|BaseLayer
+    7402166: Box25902|Line048.Li001|Take 001|BaseLayer
+    7402168: Box25902|Line049.Li001|Take 001|BaseLayer
+    7402170: Box25902|Line053.Li002|Take 001|BaseLayer
+    7402172: Box25902|Line054.Li|Take 001|BaseLayer
+    7402174: Box25902|Line057|Take 001|BaseLayer
+    7402176: Box25902|Line059|Take 001|BaseLayer
+    7402178: Box25902|Line060|Take 001|BaseLayer
+    7402180: Box25902|Line19181|Take 001|BaseLayer
+    7402182: Box25902|Object003|Take 001|BaseLayer
+    7402184: Box25902|Object007|Take 001|BaseLayer
+    7402186: Box25902|Object008|Take 001|BaseLayer
+    7402188: Box25902|Object009|Take 001|BaseLayer
+    7402190: Box25902|Object010|Take 001|BaseLayer
+    7402192: Box25902|Object011|Take 001|BaseLayer
+    7402194: Box25902|Object012|Take 001|BaseLayer
+    7402196: Box25902|Object01|Take 001|BaseLayer
+    7402198: Box25902|Object03.002|Take 001|BaseLayer
+    7402200: Box25902|Object034|Take 001|BaseLayer
+    7402202: Box25902|Object035|Take 001|BaseLayer
+    7402204: Box25902|Object04.001|Take 001|BaseLayer
+    7402206: Box25902|Object04|Take 001|BaseLayer
+    7402208: Box25902|Object05.001|Take 001|BaseLayer
+    7402210: Box25902|Object05|Take 001|BaseLayer
+    7402212: Box25902|Object10|Take 001|BaseLayer
+    7402214: Box25902|Object11|Take 001|BaseLayer
+    7402216: Box25902|panel_Nard|Take 001|BaseLayer
+    7402218: Box25902|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7402220: Box25902|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7402222: Box25902|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7402224: Box25902|Plane02#1_001|Take 001|BaseLayer
+    7402226: Box25902|Plane12|Take 001|BaseLayer
+    7402228: Box25902|Rectangl030|Take 001|BaseLayer
+    7402230: Box25902|Rectangl032|Take 001|BaseLayer
+    7402232: Box25902|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7402234: Box25902|Rectangle005|Take 001|BaseLayer
+    7402236: Box25902|Rectangle007|Take 001|BaseLayer
+    7402238: Box25902|Rectangle016|Take 001|BaseLayer
+    7402240: Box25902|Rectangle019|Take 001|BaseLayer
+    7402242: Box25902|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7402244: Box25902|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7402246: Box25902|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7402248: Box25902|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7402250: Box25902|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7402252: Box25902|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7402254: Box25902|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7402256: Box25902|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7402258: Box25902|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7402260: Box25902|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7402262: Box25902|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7402264: Box25902|Rectangle6647|Take 001|BaseLayer
+    7402266: Box25902|Rectangle6649|Take 001|BaseLayer
+    7402268: Box25902|Rectangle6652|Take 001|BaseLayer
+    7402270: Box25902|Rectangle6654|Take 001|BaseLayer
+    7402272: Box25902|Rectangle6655|Take 001|BaseLayer
+    7402274: Box25902|Rectangle6657|Take 001|BaseLayer
+    7402276: Box25902|Rectangle6659|Take 001|BaseLayer
+    7402278: Box25902|Rectangle6660|Take 001|BaseLayer
+    7402280: Box25902|Shape004|Take 001|BaseLayer
+    7402282: Box25902|Shape01|Take 001|BaseLayer
+    7402284: Box25902|Shape02|Take 001|BaseLayer
+    7402286: Box25902|Side Chair001|Take 001|BaseLayer
+    7402288: Box25902|Side Chair004|Take 001|BaseLayer
+    7402290: Box25902|Side Chair005|Take 001|BaseLayer
+    7402292: Box25902|Side Chair006|Take 001|BaseLayer
+    7402294: Box25902|Side Chair007|Take 001|BaseLayer
+    7402296: Box25902|Sphere004|Take 001|BaseLayer
+    7402298: Box25902|sub004|Take 001|BaseLayer
+    7402300: Box25902|Torus001|Take 001|BaseLayer
+    7402302: Box25902|Tripod lamp|Take 001|BaseLayer
+    7402304: Box25902|Tube229|Take 001|BaseLayer
+    7402306: Box25902|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7402308: Box25902|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7402310: Box25902|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7402312: Box25902|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7402314: Box25902|zerkal_05|Take 001|BaseLayer
+    7402316: Line19181|Arc01.Arc003|Take 001|BaseLayer
+    7402318: Line19181|Bar Stool001|Take 001|BaseLayer
+    7402320: Line19181|be-Easy ta|Take 001|BaseLayer
+    7402322: "Line19181|Block:bid\xE8|Take 001|BaseLayer"
+    7402324: Line19181|Block:divano|Take 001|BaseLayer
+    7402326: Line19181|Box002|Take 001|BaseLayer
+    7402328: Line19181|Box005|Take 001|BaseLayer
+    7402330: Line19181|Box007|Take 001|BaseLayer
+    7402332: Line19181|Box009|Take 001|BaseLayer
+    7402334: Line19181|Box012|Take 001|BaseLayer
+    7402336: Line19181|Box016|Take 001|BaseLayer
+    7402338: Line19181|Box018|Take 001|BaseLayer
+    7402340: Line19181|Box019|Take 001|BaseLayer
+    7402342: Line19181|Box2226.Bo001|Take 001|BaseLayer
+    7402344: Line19181|Box2226.Bo|Take 001|BaseLayer
+    7402346: Line19181|Box25884|Take 001|BaseLayer
+    7402348: Line19181|Box25885|Take 001|BaseLayer
+    7402350: Line19181|Box25887|Take 001|BaseLayer
+    7402352: Line19181|Box25889|Take 001|BaseLayer
+    7402354: Line19181|Box25890|Take 001|BaseLayer
+    7402356: Line19181|Box25891|Take 001|BaseLayer
+    7402358: Line19181|Box25892|Take 001|BaseLayer
+    7402360: Line19181|Box25894|Take 001|BaseLayer
+    7402362: Line19181|Box25898|Take 001|BaseLayer
+    7402364: Line19181|Box25902|Take 001|BaseLayer
+    7402366: Line19181|Box25903|Take 001|BaseLayer
+    7402368: Line19181|Box25907|Take 001|BaseLayer
+    7402370: Line19181|Box25909|Take 001|BaseLayer
+    7402372: Line19181|Box25911|Take 001|BaseLayer
+    7402374: Line19181|Box263|Take 001|BaseLayer
+    7402376: Line19181|Box264|Take 001|BaseLayer
+    7402378: Line19181|Box265|Take 001|BaseLayer
+    7402380: Line19181|Box270|Take 001|BaseLayer
+    7402382: Line19181|Box277|Take 001|BaseLayer
+    7402384: Line19181|Box279|Take 001|BaseLayer
+    7402386: Line19181|Box280|Take 001|BaseLayer
+    7402388: Line19181|Box286|Take 001|BaseLayer
+    7402390: Line19181|Box287|Take 001|BaseLayer
+    7402392: Line19181|Box288|Take 001|BaseLayer
+    7402394: Line19181|Box293|Take 001|BaseLayer
+    7402396: Line19181|Box294|Take 001|BaseLayer
+    7402398: Line19181|Box296|Take 001|BaseLayer
+    7402400: Line19181|Box301|Take 001|BaseLayer
+    7402402: Line19181|Box303|Take 001|BaseLayer
+    7402404: Line19181|Camera001.Target|Take 001|BaseLayer
+    7402406: Line19181|Camera001|Take 001|BaseLayer
+    7402408: Line19181|Circle001.001|Take 001|BaseLayer
+    7402410: Line19181|Circle002.001|Take 001|BaseLayer
+    7402412: Line19181|Circle003.001|Take 001|BaseLayer
+    7402414: Line19181|Circle004|Take 001|BaseLayer
+    7402416: Line19181|Circle013|Take 001|BaseLayer
+    7402418: Line19181|Circle015|Take 001|BaseLayer
+    7402420: Line19181|Component#.Component003|Take 001|BaseLayer
+    7402422: Line19181|Component#.Component004|Take 001|BaseLayer
+    7402424: Line19181|Component#.Component006|Take 001|BaseLayer
+    7402426: Line19181|Component#002|Take 001|BaseLayer
+    7402428: Line19181|Component#006|Take 001|BaseLayer
+    7402430: Line19181|Component#|Take 001|BaseLayer
+    7402432: Line19181|Cylinder007|Take 001|BaseLayer
+    7402434: Line19181|Cylinder00|Take 001|BaseLayer
+    7402436: Line19181|Cylinder010|Take 001|BaseLayer
+    7402438: Line19181|Cylinder01|Take 001|BaseLayer
+    7402440: Line19181|Group#4_005|Take 001|BaseLayer
+    7402442: Line19181|Group#4_00|Take 001|BaseLayer
+    7402444: Line19181|Group003|Take 001|BaseLayer
+    7402446: Line19181|Group004|Take 001|BaseLayer
+    7402448: Line19181|Group010|Take 001|BaseLayer
+    7402450: Line19181|Group011|Take 001|BaseLayer
+    7402452: Line19181|Group020|Take 001|BaseLayer
+    7402454: Line19181|Group022|Take 001|BaseLayer
+    7402456: Line19181|Group023|Take 001|BaseLayer
+    7402458: Line19181|Group025|Take 001|BaseLayer
+    7402460: Line19181|Group028|Take 001|BaseLayer
+    7402462: Line19181|Group029|Take 001|BaseLayer
+    7402464: Line19181|Group030|Take 001|BaseLayer
+    7402466: Line19181|Group034|Take 001|BaseLayer
+    7402468: Line19181|Group04|Take 001|BaseLayer
+    7402470: Line19181|Group_002ddd|Take 001|BaseLayer
+    7402472: Line19181|Group_002sdv002|Take 001|BaseLayer
+    7402474: Line19181|Group_002sdv|Take 001|BaseLayer
+    7402476: Line19181|Group_002|Take 001|BaseLayer
+    7402478: Line19181|Group_003|Take 001|BaseLayer
+    7402480: Line19181|Group_007|Take 001|BaseLayer
+    7402482: Line19181|Group_008.Group_006|Take 001|BaseLayer
+    7402484: Line19181|Group_008|Take 001|BaseLayer
+    7402486: Line19181|Group_009.Group_011|Take 001|BaseLayer
+    7402488: Line19181|Group_015|Take 001|BaseLayer
+    7402490: Line19181|Group_016|Take 001|BaseLayer
+    7402492: Line19181|Group_020|Take 001|BaseLayer
+    7402494: Line19181|Group_021|Take 001|BaseLayer
+    7402496: Line19181|Group_022|Take 001|BaseLayer
+    7402498: Line19181|Group_023|Take 001|BaseLayer
+    7402500: Line19181|Group_024|Take 001|BaseLayer
+    7402502: Line19181|Group_025|Take 001|BaseLayer
+    7402504: Line19181|Group_026|Take 001|BaseLayer
+    7402506: Line19181|Group_028|Take 001|BaseLayer
+    7402508: Line19181|Group_032|Take 001|BaseLayer
+    7402510: Line19181|Group_038|Take 001|BaseLayer
+    7402512: Line19181|Group_039|Take 001|BaseLayer
+    7402514: Line19181|Group_040|Take 001|BaseLayer
+    7402516: Line19181|Group_042|Take 001|BaseLayer
+    7402518: Line19181|Layer:07Arredi.001|Take 001|BaseLayer
+    7402520: Line19181|Layer:07Arredi.002|Take 001|BaseLayer
+    7402522: Line19181|Layer:arredo|Take 001|BaseLayer
+    7402524: Line19181|Line002|Take 001|BaseLayer
+    7402526: Line19181|Line008|Take 001|BaseLayer
+    7402528: Line19181|Line009|Take 001|BaseLayer
+    7402530: Line19181|Line010|Take 001|BaseLayer
+    7402532: Line19181|Line011|Take 001|BaseLayer
+    7402534: Line19181|Line012|Take 001|BaseLayer
+    7402536: Line19181|Line013|Take 001|BaseLayer
+    7402538: Line19181|Line014|Take 001|BaseLayer
+    7402540: Line19181|Line018|Take 001|BaseLayer
+    7402542: Line19181|Line019|Take 001|BaseLayer
+    7402544: Line19181|Line020|Take 001|BaseLayer
+    7402546: Line19181|Line021|Take 001|BaseLayer
+    7402548: Line19181|Line025|Take 001|BaseLayer
+    7402550: Line19181|Line02|Take 001|BaseLayer
+    7402552: Line19181|Line048.Li001|Take 001|BaseLayer
+    7402554: Line19181|Line049.Li001|Take 001|BaseLayer
+    7402556: Line19181|Line053.Li002|Take 001|BaseLayer
+    7402558: Line19181|Line054.Li|Take 001|BaseLayer
+    7402560: Line19181|Line057|Take 001|BaseLayer
+    7402562: Line19181|Line059|Take 001|BaseLayer
+    7402564: Line19181|Line060|Take 001|BaseLayer
+    7402566: Line19181|Line19181|Take 001|BaseLayer
+    7402568: Line19181|Object003|Take 001|BaseLayer
+    7402570: Line19181|Object007|Take 001|BaseLayer
+    7402572: Line19181|Object008|Take 001|BaseLayer
+    7402574: Line19181|Object009|Take 001|BaseLayer
+    7402576: Line19181|Object010|Take 001|BaseLayer
+    7402578: Line19181|Object011|Take 001|BaseLayer
+    7402580: Line19181|Object012|Take 001|BaseLayer
+    7402582: Line19181|Object01|Take 001|BaseLayer
+    7402584: Line19181|Object03.002|Take 001|BaseLayer
+    7402586: Line19181|Object034|Take 001|BaseLayer
+    7402588: Line19181|Object035|Take 001|BaseLayer
+    7402590: Line19181|Object04.001|Take 001|BaseLayer
+    7402592: Line19181|Object04|Take 001|BaseLayer
+    7402594: Line19181|Object05.001|Take 001|BaseLayer
+    7402596: Line19181|Object05|Take 001|BaseLayer
+    7402598: Line19181|Object10|Take 001|BaseLayer
+    7402600: Line19181|Object11|Take 001|BaseLayer
+    7402602: Line19181|panel_Nard|Take 001|BaseLayer
+    7402604: Line19181|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7402606: Line19181|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7402608: Line19181|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7402610: Line19181|Plane02#1_001|Take 001|BaseLayer
+    7402612: Line19181|Plane12|Take 001|BaseLayer
+    7402614: Line19181|Rectangl030|Take 001|BaseLayer
+    7402616: Line19181|Rectangl032|Take 001|BaseLayer
+    7402618: Line19181|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7402620: Line19181|Rectangle005|Take 001|BaseLayer
+    7402622: Line19181|Rectangle007|Take 001|BaseLayer
+    7402624: Line19181|Rectangle016|Take 001|BaseLayer
+    7402626: Line19181|Rectangle019|Take 001|BaseLayer
+    7402628: Line19181|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7402630: Line19181|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7402632: Line19181|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7402634: Line19181|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7402636: Line19181|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7402638: Line19181|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7402640: Line19181|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7402642: Line19181|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7402644: Line19181|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7402646: Line19181|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7402648: Line19181|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7402650: Line19181|Rectangle6647|Take 001|BaseLayer
+    7402652: Line19181|Rectangle6649|Take 001|BaseLayer
+    7402654: Line19181|Rectangle6652|Take 001|BaseLayer
+    7402656: Line19181|Rectangle6654|Take 001|BaseLayer
+    7402658: Line19181|Rectangle6655|Take 001|BaseLayer
+    7402660: Line19181|Rectangle6657|Take 001|BaseLayer
+    7402662: Line19181|Rectangle6659|Take 001|BaseLayer
+    7402664: Line19181|Rectangle6660|Take 001|BaseLayer
+    7402666: Line19181|Shape004|Take 001|BaseLayer
+    7402668: Line19181|Shape01|Take 001|BaseLayer
+    7402670: Line19181|Shape02|Take 001|BaseLayer
+    7402672: Line19181|Side Chair001|Take 001|BaseLayer
+    7402674: Line19181|Side Chair004|Take 001|BaseLayer
+    7402676: Line19181|Side Chair005|Take 001|BaseLayer
+    7402678: Line19181|Side Chair006|Take 001|BaseLayer
+    7402680: Line19181|Side Chair007|Take 001|BaseLayer
+    7402682: Line19181|Sphere004|Take 001|BaseLayer
+    7402684: Line19181|sub004|Take 001|BaseLayer
+    7402686: Line19181|Torus001|Take 001|BaseLayer
+    7402688: Line19181|Tripod lamp|Take 001|BaseLayer
+    7402690: Line19181|Tube229|Take 001|BaseLayer
+    7402692: Line19181|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7402694: Line19181|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7402696: Line19181|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7402698: Line19181|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7402700: Line19181|zerkal_05|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

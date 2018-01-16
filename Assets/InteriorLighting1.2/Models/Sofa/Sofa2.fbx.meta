@@ -87,13 +87,13 @@ ModelImporter:
     weldVertices: 1
     preserveHierarchy: 0
     indexFormat: 1
-    secondaryUVAngleDistortion: 8
-    secondaryUVAreaDistortion: 15
-    secondaryUVHardAngle: 132
-    secondaryUVPackMargin: 4
+    secondaryUVAngleDistortion: 1
+    secondaryUVAreaDistortion: 1
+    secondaryUVHardAngle: 180
+    secondaryUVPackMargin: 19
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 160
+    normalSmoothAngle: 180
     normalImportMode: 1
     tangentImportMode: 3
     normalCalculationMode: 0

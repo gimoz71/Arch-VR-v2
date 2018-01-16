@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: e25a49424c10ee1479cf10e8b7ea793d
+timeCreated: 1516115727
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube.019
+    100004: Cube.020
+    100006: Cylinder01.001
+    100008: Cylinder01.002
+    100010: Cylinder01.003
+    100012: Cylinder01.004
+    400000: //RootNode
+    400002: Cube.019
+    400004: Cube.020
+    400006: Cylinder01.001
+    400008: Cylinder01.002
+    400010: Cylinder01.003
+    400012: Cylinder01.004
+    2100000: No Name
+    2300000: Cube.019
+    2300002: Cube.020
+    2300004: Cylinder01.001
+    2300006: Cylinder01.002
+    2300008: Cylinder01.003
+    2300010: Cylinder01.004
+    3300000: Cube.019
+    3300002: Cube.020
+    3300004: Cylinder01.001
+    3300006: Cylinder01.002
+    3300008: Cylinder01.003
+    3300010: Cylinder01.004
+    4300000: Cube.020
+    4300002: Cube.019
+    4300004: Cylinder01.004
+    4300006: Cylinder01.003
+    4300008: Cylinder01.002
+    4300010: Cylinder01.001
+    7400000: Cylinder01.004|Arc01.Arc003|Take 001|BaseLayer
+    7400002: Cylinder01.004|Bar Stool001|Take 001|BaseLayer
+    7400004: Cylinder01.004|be-Easy ta|Take 001|BaseLayer
+    7400006: "Cylinder01.004|Block:bid\xE8|Take 001|BaseLayer"
+    7400008: Cylinder01.004|Block:divano|Take 001|BaseLayer
+    7400010: Cylinder01.004|Box002|Take 001|BaseLayer
+    7400012: Cylinder01.004|Box005|Take 001|BaseLayer
+    7400014: Cylinder01.004|Box007|Take 001|BaseLayer
+    7400016: Cylinder01.004|Box009|Take 001|BaseLayer
+    7400018: Cylinder01.004|Box012|Take 001|BaseLayer
+    7400020: Cylinder01.004|Box016|Take 001|BaseLayer
+    7400022: Cylinder01.004|Box018|Take 001|BaseLayer
+    7400024: Cylinder01.004|Box019|Take 001|BaseLayer
+    7400026: Cylinder01.004|Box2226.Bo001|Take 001|BaseLayer
+    7400028: Cylinder01.004|Box2226.Bo|Take 001|BaseLayer
+    7400030: Cylinder01.004|Box25884|Take 001|BaseLayer
+    7400032: Cylinder01.004|Box25885|Take 001|BaseLayer
+    7400034: Cylinder01.004|Box25887|Take 001|BaseLayer
+    7400036: Cylinder01.004|Box25889|Take 001|BaseLayer
+    7400038: Cylinder01.004|Box25890|Take 001|BaseLayer
+    7400040: Cylinder01.004|Box25891|Take 001|BaseLayer
+    7400042: Cylinder01.004|Box25892|Take 001|BaseLayer
+    7400044: Cylinder01.004|Box25894|Take 001|BaseLayer
+    7400046: Cylinder01.004|Box25898|Take 001|BaseLayer
+    7400048: Cylinder01.004|Box25902|Take 001|BaseLayer
+    7400050: Cylinder01.004|Box25903|Take 001|BaseLayer
+    7400052: Cylinder01.004|Box25907|Take 001|BaseLayer
+    7400054: Cylinder01.004|Box25909|Take 001|BaseLayer
+    7400056: Cylinder01.004|Box25911|Take 001|BaseLayer
+    7400058: Cylinder01.004|Box263|Take 001|BaseLayer
+    7400060: Cylinder01.004|Box264|Take 001|BaseLayer
+    7400062: Cylinder01.004|Box265|Take 001|BaseLayer
+    7400064: Cylinder01.004|Box270|Take 001|BaseLayer
+    7400066: Cylinder01.004|Box277|Take 001|BaseLayer
+    7400068: Cylinder01.004|Box279|Take 001|BaseLayer
+    7400070: Cylinder01.004|Box280|Take 001|BaseLayer
+    7400072: Cylinder01.004|Box286|Take 001|BaseLayer
+    7400074: Cylinder01.004|Box287|Take 001|BaseLayer
+    7400076: Cylinder01.004|Box288|Take 001|BaseLayer
+    7400078: Cylinder01.004|Box293|Take 001|BaseLayer
+    7400080: Cylinder01.004|Box294|Take 001|BaseLayer
+    7400082: Cylinder01.004|Box296|Take 001|BaseLayer
+    7400084: Cylinder01.004|Box301|Take 001|BaseLayer
+    7400086: Cylinder01.004|Box303|Take 001|BaseLayer
+    7400088: Cylinder01.004|Camera001.Target|Take 001|BaseLayer
+    7400090: Cylinder01.004|Camera001|Take 001|BaseLayer
+    7400092: Cylinder01.004|Circle001.001|Take 001|BaseLayer
+    7400094: Cylinder01.004|Circle002.001|Take 001|BaseLayer
+    7400096: Cylinder01.004|Circle003.001|Take 001|BaseLayer
+    7400098: Cylinder01.004|Circle004|Take 001|BaseLayer
+    7400100: Cylinder01.004|Circle013|Take 001|BaseLayer
+    7400102: Cylinder01.004|Circle015|Take 001|BaseLayer
+    7400104: Cylinder01.004|Component#.Component003|Take 001|BaseLayer
+    7400106: Cylinder01.004|Component#.Component004|Take 001|BaseLayer
+    7400108: Cylinder01.004|Component#.Component006|Take 001|BaseLayer
+    7400110: Cylinder01.004|Component#002|Take 001|BaseLayer
+    7400112: Cylinder01.004|Component#006|Take 001|BaseLayer
+    7400114: Cylinder01.004|Component#|Take 001|BaseLayer
+    7400116: Cylinder01.004|Cylinder007|Take 001|BaseLayer
+    7400118: Cylinder01.004|Cylinder00|Take 001|BaseLayer
+    7400120: Cylinder01.004|Cylinder010|Take 001|BaseLayer
+    7400122: Cylinder01.004|Cylinder01|Take 001|BaseLayer
+    7400124: Cylinder01.004|Cylinder01|Take 001|BaseLayer.001
+    7400126: Cylinder01.004|Cylinder01|Take 001|BaseLayer.002
+    7400128: Cylinder01.004|Cylinder01|Take 001|BaseLayer.003
+    7400130: Cylinder01.004|Group#4_005|Take 001|BaseLayer
+    7400132: Cylinder01.004|Group#4_00|Take 001|BaseLayer
+    7400134: Cylinder01.004|Group003|Take 001|BaseLayer
+    7400136: Cylinder01.004|Group004|Take 001|BaseLayer
+    7400138: Cylinder01.004|Group010|Take 001|BaseLayer
+    7400140: Cylinder01.004|Group011|Take 001|BaseLayer
+    7400142: Cylinder01.004|Group020|Take 001|BaseLayer
+    7400144: Cylinder01.004|Group022|Take 001|BaseLayer
+    7400146: Cylinder01.004|Group023|Take 001|BaseLayer
+    7400148: Cylinder01.004|Group025|Take 001|BaseLayer
+    7400150: Cylinder01.004|Group028|Take 001|BaseLayer
+    7400152: Cylinder01.004|Group029|Take 001|BaseLayer
+    7400154: Cylinder01.004|Group030|Take 001|BaseLayer
+    7400156: Cylinder01.004|Group034|Take 001|BaseLayer
+    7400158: Cylinder01.004|Group04|Take 001|BaseLayer
+    7400160: Cylinder01.004|Group_002ddd|Take 001|BaseLayer
+    7400162: Cylinder01.004|Group_002sdv002|Take 001|BaseLayer
+    7400164: Cylinder01.004|Group_002sdv|Take 001|BaseLayer
+    7400166: Cylinder01.004|Group_002|Take 001|BaseLayer
+    7400168: Cylinder01.004|Group_003|Take 001|BaseLayer
+    7400170: Cylinder01.004|Group_007|Take 001|BaseLayer
+    7400172: Cylinder01.004|Group_008.Group_006|Take 001|BaseLayer
+    7400174: Cylinder01.004|Group_008|Take 001|BaseLayer
+    7400176: Cylinder01.004|Group_009.Group_011|Take 001|BaseLayer
+    7400178: Cylinder01.004|Group_015|Take 001|BaseLayer
+    7400180: Cylinder01.004|Group_016|Take 001|BaseLayer
+    7400182: Cylinder01.004|Group_020|Take 001|BaseLayer
+    7400184: Cylinder01.004|Group_021|Take 001|BaseLayer
+    7400186: Cylinder01.004|Group_022|Take 001|BaseLayer
+    7400188: Cylinder01.004|Group_023|Take 001|BaseLayer
+    7400190: Cylinder01.004|Group_024|Take 001|BaseLayer
+    7400192: Cylinder01.004|Group_025|Take 001|BaseLayer
+    7400194: Cylinder01.004|Group_026|Take 001|BaseLayer
+    7400196: Cylinder01.004|Group_028|Take 001|BaseLayer
+    7400198: Cylinder01.004|Group_032|Take 001|BaseLayer
+    7400200: Cylinder01.004|Group_038|Take 001|BaseLayer
+    7400202: Cylinder01.004|Group_039|Take 001|BaseLayer
+    7400204: Cylinder01.004|Group_040|Take 001|BaseLayer
+    7400206: Cylinder01.004|Group_042|Take 001|BaseLayer
+    7400208: Cylinder01.004|Layer:07Arredi.001|Take 001|BaseLayer
+    7400210: Cylinder01.004|Layer:07Arredi.002|Take 001|BaseLayer
+    7400212: Cylinder01.004|Layer:arredo|Take 001|BaseLayer
+    7400214: Cylinder01.004|Line002|Take 001|BaseLayer
+    7400216: Cylinder01.004|Line008|Take 001|BaseLayer
+    7400218: Cylinder01.004|Line009|Take 001|BaseLayer
+    7400220: Cylinder01.004|Line010|Take 001|BaseLayer
+    7400222: Cylinder01.004|Line011|Take 001|BaseLayer
+    7400224: Cylinder01.004|Line012|Take 001|BaseLayer
+    7400226: Cylinder01.004|Line013|Take 001|BaseLayer
+    7400228: Cylinder01.004|Line014|Take 001|BaseLayer
+    7400230: Cylinder01.004|Line018|Take 001|BaseLayer
+    7400232: Cylinder01.004|Line019|Take 001|BaseLayer
+    7400234: Cylinder01.004|Line020|Take 001|BaseLayer
+    7400236: Cylinder01.004|Line021|Take 001|BaseLayer
+    7400238: Cylinder01.004|Line025|Take 001|BaseLayer
+    7400240: Cylinder01.004|Line02|Take 001|BaseLayer
+    7400242: Cylinder01.004|Line048.Li001|Take 001|BaseLayer
+    7400244: Cylinder01.004|Line049.Li001|Take 001|BaseLayer
+    7400246: Cylinder01.004|Line053.Li002|Take 001|BaseLayer
+    7400248: Cylinder01.004|Line054.Li|Take 001|BaseLayer
+    7400250: Cylinder01.004|Line057|Take 001|BaseLayer
+    7400252: Cylinder01.004|Line059|Take 001|BaseLayer
+    7400254: Cylinder01.004|Line060|Take 001|BaseLayer
+    7400256: Cylinder01.004|Line19181|Take 001|BaseLayer
+    7400258: Cylinder01.004|Object003|Take 001|BaseLayer
+    7400260: Cylinder01.004|Object007|Take 001|BaseLayer
+    7400262: Cylinder01.004|Object008|Take 001|BaseLayer
+    7400264: Cylinder01.004|Object009|Take 001|BaseLayer
+    7400266: Cylinder01.004|Object010|Take 001|BaseLayer
+    7400268: Cylinder01.004|Object011|Take 001|BaseLayer
+    7400270: Cylinder01.004|Object012|Take 001|BaseLayer
+    7400272: Cylinder01.004|Object01|Take 001|BaseLayer
+    7400274: Cylinder01.004|Object03.002|Take 001|BaseLayer
+    7400276: Cylinder01.004|Object034|Take 001|BaseLayer
+    7400278: Cylinder01.004|Object035|Take 001|BaseLayer
+    7400280: Cylinder01.004|Object04.001|Take 001|BaseLayer
+    7400282: Cylinder01.004|Object04|Take 001|BaseLayer
+    7400284: Cylinder01.004|Object05.001|Take 001|BaseLayer
+    7400286: Cylinder01.004|Object05|Take 001|BaseLayer
+    7400288: Cylinder01.004|Object10|Take 001|BaseLayer
+    7400290: Cylinder01.004|Object11|Take 001|BaseLayer
+    7400292: Cylinder01.004|panel_Nard|Take 001|BaseLayer
+    7400294: Cylinder01.004|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7400296: Cylinder01.004|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7400298: Cylinder01.004|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7400300: Cylinder01.004|Plane02#1_001|Take 001|BaseLayer
+    7400302: Cylinder01.004|Plane12|Take 001|BaseLayer
+    7400304: Cylinder01.004|Rectangl030|Take 001|BaseLayer
+    7400306: Cylinder01.004|Rectangl032|Take 001|BaseLayer
+    7400308: Cylinder01.004|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7400310: Cylinder01.004|Rectangle005|Take 001|BaseLayer
+    7400312: Cylinder01.004|Rectangle007|Take 001|BaseLayer
+    7400314: Cylinder01.004|Rectangle016|Take 001|BaseLayer
+    7400316: Cylinder01.004|Rectangle019|Take 001|BaseLayer
+    7400318: Cylinder01.004|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7400320: Cylinder01.004|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7400322: Cylinder01.004|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7400324: Cylinder01.004|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7400326: Cylinder01.004|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7400328: Cylinder01.004|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7400330: Cylinder01.004|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7400332: Cylinder01.004|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7400334: Cylinder01.004|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7400336: Cylinder01.004|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7400338: Cylinder01.004|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7400340: Cylinder01.004|Rectangle6647|Take 001|BaseLayer
+    7400342: Cylinder01.004|Rectangle6649|Take 001|BaseLayer
+    7400344: Cylinder01.004|Rectangle6652|Take 001|BaseLayer
+    7400346: Cylinder01.004|Rectangle6654|Take 001|BaseLayer
+    7400348: Cylinder01.004|Rectangle6655|Take 001|BaseLayer
+    7400350: Cylinder01.004|Rectangle6657|Take 001|BaseLayer
+    7400352: Cylinder01.004|Rectangle6659|Take 001|BaseLayer
+    7400354: Cylinder01.004|Rectangle6660|Take 001|BaseLayer
+    7400356: Cylinder01.004|Shape004|Take 001|BaseLayer
+    7400358: Cylinder01.004|Shape01|Take 001|BaseLayer
+    7400360: Cylinder01.004|Shape02|Take 001|BaseLayer
+    7400362: Cylinder01.004|Side Chair001|Take 001|BaseLayer
+    7400364: Cylinder01.004|Side Chair004|Take 001|BaseLayer
+    7400366: Cylinder01.004|Side Chair005|Take 001|BaseLayer
+    7400368: Cylinder01.004|Side Chair006|Take 001|BaseLayer
+    7400370: Cylinder01.004|Side Chair007|Take 001|BaseLayer
+    7400372: Cylinder01.004|Sphere004|Take 001|BaseLayer
+    7400374: Cylinder01.004|sub004|Take 001|BaseLayer
+    7400376: Cylinder01.004|Torus001|Take 001|BaseLayer
+    7400378: Cylinder01.004|Tripod lamp|Take 001|BaseLayer
+    7400380: Cylinder01.004|Tube229|Take 001|BaseLayer
+    7400382: Cylinder01.004|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7400384: Cylinder01.004|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7400386: Cylinder01.004|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7400388: Cylinder01.004|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7400390: Cylinder01.004|zerkal_05|Take 001|BaseLayer
+    7400392: Cylinder01.003|Arc01.Arc003|Take 001|BaseLayer
+    7400394: Cylinder01.003|Bar Stool001|Take 001|BaseLayer
+    7400396: Cylinder01.003|be-Easy ta|Take 001|BaseLayer
+    7400398: "Cylinder01.003|Block:bid\xE8|Take 001|BaseLayer"
+    7400400: Cylinder01.003|Block:divano|Take 001|BaseLayer
+    7400402: Cylinder01.003|Box002|Take 001|BaseLayer
+    7400404: Cylinder01.003|Box005|Take 001|BaseLayer
+    7400406: Cylinder01.003|Box007|Take 001|BaseLayer
+    7400408: Cylinder01.003|Box009|Take 001|BaseLayer
+    7400410: Cylinder01.003|Box012|Take 001|BaseLayer
+    7400412: Cylinder01.003|Box016|Take 001|BaseLayer
+    7400414: Cylinder01.003|Box018|Take 001|BaseLayer
+    7400416: Cylinder01.003|Box019|Take 001|BaseLayer
+    7400418: Cylinder01.003|Box2226.Bo001|Take 001|BaseLayer
+    7400420: Cylinder01.003|Box2226.Bo|Take 001|BaseLayer
+    7400422: Cylinder01.003|Box25884|Take 001|BaseLayer
+    7400424: Cylinder01.003|Box25885|Take 001|BaseLayer
+    7400426: Cylinder01.003|Box25887|Take 001|BaseLayer
+    7400428: Cylinder01.003|Box25889|Take 001|BaseLayer
+    7400430: Cylinder01.003|Box25890|Take 001|BaseLayer
+    7400432: Cylinder01.003|Box25891|Take 001|BaseLayer
+    7400434: Cylinder01.003|Box25892|Take 001|BaseLayer
+    7400436: Cylinder01.003|Box25894|Take 001|BaseLayer
+    7400438: Cylinder01.003|Box25898|Take 001|BaseLayer
+    7400440: Cylinder01.003|Box25902|Take 001|BaseLayer
+    7400442: Cylinder01.003|Box25903|Take 001|BaseLayer
+    7400444: Cylinder01.003|Box25907|Take 001|BaseLayer
+    7400446: Cylinder01.003|Box25909|Take 001|BaseLayer
+    7400448: Cylinder01.003|Box25911|Take 001|BaseLayer
+    7400450: Cylinder01.003|Box263|Take 001|BaseLayer
+    7400452: Cylinder01.003|Box264|Take 001|BaseLayer
+    7400454: Cylinder01.003|Box265|Take 001|BaseLayer
+    7400456: Cylinder01.003|Box270|Take 001|BaseLayer
+    7400458: Cylinder01.003|Box277|Take 001|BaseLayer
+    7400460: Cylinder01.003|Box279|Take 001|BaseLayer
+    7400462: Cylinder01.003|Box280|Take 001|BaseLayer
+    7400464: Cylinder01.003|Box286|Take 001|BaseLayer
+    7400466: Cylinder01.003|Box287|Take 001|BaseLayer
+    7400468: Cylinder01.003|Box288|Take 001|BaseLayer
+    7400470: Cylinder01.003|Box293|Take 001|BaseLayer
+    7400472: Cylinder01.003|Box294|Take 001|BaseLayer
+    7400474: Cylinder01.003|Box296|Take 001|BaseLayer
+    7400476: Cylinder01.003|Box301|Take 001|BaseLayer
+    7400478: Cylinder01.003|Box303|Take 001|BaseLayer
+    7400480: Cylinder01.003|Camera001.Target|Take 001|BaseLayer
+    7400482: Cylinder01.003|Camera001|Take 001|BaseLayer
+    7400484: Cylinder01.003|Circle001.001|Take 001|BaseLayer
+    7400486: Cylinder01.003|Circle002.001|Take 001|BaseLayer
+    7400488: Cylinder01.003|Circle003.001|Take 001|BaseLayer
+    7400490: Cylinder01.003|Circle004|Take 001|BaseLayer
+    7400492: Cylinder01.003|Circle013|Take 001|BaseLayer
+    7400494: Cylinder01.003|Circle015|Take 001|BaseLayer
+    7400496: Cylinder01.003|Component#.Component003|Take 001|BaseLayer
+    7400498: Cylinder01.003|Component#.Component004|Take 001|BaseLayer
+    7400500: Cylinder01.003|Component#.Component006|Take 001|BaseLayer
+    7400502: Cylinder01.003|Component#002|Take 001|BaseLayer
+    7400504: Cylinder01.003|Component#006|Take 001|BaseLayer
+    7400506: Cylinder01.003|Component#|Take 001|BaseLayer
+    7400508: Cylinder01.003|Cylinder007|Take 001|BaseLayer
+    7400510: Cylinder01.003|Cylinder00|Take 001|BaseLayer
+    7400512: Cylinder01.003|Cylinder010|Take 001|BaseLayer
+    7400514: Cylinder01.003|Cylinder01|Take 001|BaseLayer
+    7400516: Cylinder01.003|Cylinder01|Take 001|BaseLayer.001
+    7400518: Cylinder01.003|Cylinder01|Take 001|BaseLayer.002
+    7400520: Cylinder01.003|Cylinder01|Take 001|BaseLayer.003
+    7400522: Cylinder01.003|Group#4_005|Take 001|BaseLayer
+    7400524: Cylinder01.003|Group#4_00|Take 001|BaseLayer
+    7400526: Cylinder01.003|Group003|Take 001|BaseLayer
+    7400528: Cylinder01.003|Group004|Take 001|BaseLayer
+    7400530: Cylinder01.003|Group010|Take 001|BaseLayer
+    7400532: Cylinder01.003|Group011|Take 001|BaseLayer
+    7400534: Cylinder01.003|Group020|Take 001|BaseLayer
+    7400536: Cylinder01.003|Group022|Take 001|BaseLayer
+    7400538: Cylinder01.003|Group023|Take 001|BaseLayer
+    7400540: Cylinder01.003|Group025|Take 001|BaseLayer
+    7400542: Cylinder01.003|Group028|Take 001|BaseLayer
+    7400544: Cylinder01.003|Group029|Take 001|BaseLayer
+    7400546: Cylinder01.003|Group030|Take 001|BaseLayer
+    7400548: Cylinder01.003|Group034|Take 001|BaseLayer
+    7400550: Cylinder01.003|Group04|Take 001|BaseLayer
+    7400552: Cylinder01.003|Group_002ddd|Take 001|BaseLayer
+    7400554: Cylinder01.003|Group_002sdv002|Take 001|BaseLayer
+    7400556: Cylinder01.003|Group_002sdv|Take 001|BaseLayer
+    7400558: Cylinder01.003|Group_002|Take 001|BaseLayer
+    7400560: Cylinder01.003|Group_003|Take 001|BaseLayer
+    7400562: Cylinder01.003|Group_007|Take 001|BaseLayer
+    7400564: Cylinder01.003|Group_008.Group_006|Take 001|BaseLayer
+    7400566: Cylinder01.003|Group_008|Take 001|BaseLayer
+    7400568: Cylinder01.003|Group_009.Group_011|Take 001|BaseLayer
+    7400570: Cylinder01.003|Group_015|Take 001|BaseLayer
+    7400572: Cylinder01.003|Group_016|Take 001|BaseLayer
+    7400574: Cylinder01.003|Group_020|Take 001|BaseLayer
+    7400576: Cylinder01.003|Group_021|Take 001|BaseLayer
+    7400578: Cylinder01.003|Group_022|Take 001|BaseLayer
+    7400580: Cylinder01.003|Group_023|Take 001|BaseLayer
+    7400582: Cylinder01.003|Group_024|Take 001|BaseLayer
+    7400584: Cylinder01.003|Group_025|Take 001|BaseLayer
+    7400586: Cylinder01.003|Group_026|Take 001|BaseLayer
+    7400588: Cylinder01.003|Group_028|Take 001|BaseLayer
+    7400590: Cylinder01.003|Group_032|Take 001|BaseLayer
+    7400592: Cylinder01.003|Group_038|Take 001|BaseLayer
+    7400594: Cylinder01.003|Group_039|Take 001|BaseLayer
+    7400596: Cylinder01.003|Group_040|Take 001|BaseLayer
+    7400598: Cylinder01.003|Group_042|Take 001|BaseLayer
+    7400600: Cylinder01.003|Layer:07Arredi.001|Take 001|BaseLayer
+    7400602: Cylinder01.003|Layer:07Arredi.002|Take 001|BaseLayer
+    7400604: Cylinder01.003|Layer:arredo|Take 001|BaseLayer
+    7400606: Cylinder01.003|Line002|Take 001|BaseLayer
+    7400608: Cylinder01.003|Line008|Take 001|BaseLayer
+    7400610: Cylinder01.003|Line009|Take 001|BaseLayer
+    7400612: Cylinder01.003|Line010|Take 001|BaseLayer
+    7400614: Cylinder01.003|Line011|Take 001|BaseLayer
+    7400616: Cylinder01.003|Line012|Take 001|BaseLayer
+    7400618: Cylinder01.003|Line013|Take 001|BaseLayer
+    7400620: Cylinder01.003|Line014|Take 001|BaseLayer
+    7400622: Cylinder01.003|Line018|Take 001|BaseLayer
+    7400624: Cylinder01.003|Line019|Take 001|BaseLayer
+    7400626: Cylinder01.003|Line020|Take 001|BaseLayer
+    7400628: Cylinder01.003|Line021|Take 001|BaseLayer
+    7400630: Cylinder01.003|Line025|Take 001|BaseLayer
+    7400632: Cylinder01.003|Line02|Take 001|BaseLayer
+    7400634: Cylinder01.003|Line048.Li001|Take 001|BaseLayer
+    7400636: Cylinder01.003|Line049.Li001|Take 001|BaseLayer
+    7400638: Cylinder01.003|Line053.Li002|Take 001|BaseLayer
+    7400640: Cylinder01.003|Line054.Li|Take 001|BaseLayer
+    7400642: Cylinder01.003|Line057|Take 001|BaseLayer
+    7400644: Cylinder01.003|Line059|Take 001|BaseLayer
+    7400646: Cylinder01.003|Line060|Take 001|BaseLayer
+    7400648: Cylinder01.003|Line19181|Take 001|BaseLayer
+    7400650: Cylinder01.003|Object003|Take 001|BaseLayer
+    7400652: Cylinder01.003|Object007|Take 001|BaseLayer
+    7400654: Cylinder01.003|Object008|Take 001|BaseLayer
+    7400656: Cylinder01.003|Object009|Take 001|BaseLayer
+    7400658: Cylinder01.003|Object010|Take 001|BaseLayer
+    7400660: Cylinder01.003|Object011|Take 001|BaseLayer
+    7400662: Cylinder01.003|Object012|Take 001|BaseLayer
+    7400664: Cylinder01.003|Object01|Take 001|BaseLayer
+    7400666: Cylinder01.003|Object03.002|Take 001|BaseLayer
+    7400668: Cylinder01.003|Object034|Take 001|BaseLayer
+    7400670: Cylinder01.003|Object035|Take 001|BaseLayer
+    7400672: Cylinder01.003|Object04.001|Take 001|BaseLayer
+    7400674: Cylinder01.003|Object04|Take 001|BaseLayer
+    7400676: Cylinder01.003|Object05.001|Take 001|BaseLayer
+    7400678: Cylinder01.003|Object05|Take 001|BaseLayer
+    7400680: Cylinder01.003|Object10|Take 001|BaseLayer
+    7400682: Cylinder01.003|Object11|Take 001|BaseLayer
+    7400684: Cylinder01.003|panel_Nard|Take 001|BaseLayer
+    7400686: Cylinder01.003|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7400688: Cylinder01.003|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7400690: Cylinder01.003|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7400692: Cylinder01.003|Plane02#1_001|Take 001|BaseLayer
+    7400694: Cylinder01.003|Plane12|Take 001|BaseLayer
+    7400696: Cylinder01.003|Rectangl030|Take 001|BaseLayer
+    7400698: Cylinder01.003|Rectangl032|Take 001|BaseLayer
+    7400700: Cylinder01.003|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7400702: Cylinder01.003|Rectangle005|Take 001|BaseLayer
+    7400704: Cylinder01.003|Rectangle007|Take 001|BaseLayer
+    7400706: Cylinder01.003|Rectangle016|Take 001|BaseLayer
+    7400708: Cylinder01.003|Rectangle019|Take 001|BaseLayer
+    7400710: Cylinder01.003|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7400712: Cylinder01.003|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7400714: Cylinder01.003|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7400716: Cylinder01.003|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7400718: Cylinder01.003|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7400720: Cylinder01.003|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7400722: Cylinder01.003|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7400724: Cylinder01.003|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7400726: Cylinder01.003|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7400728: Cylinder01.003|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7400730: Cylinder01.003|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7400732: Cylinder01.003|Rectangle6647|Take 001|BaseLayer
+    7400734: Cylinder01.003|Rectangle6649|Take 001|BaseLayer
+    7400736: Cylinder01.003|Rectangle6652|Take 001|BaseLayer
+    7400738: Cylinder01.003|Rectangle6654|Take 001|BaseLayer
+    7400740: Cylinder01.003|Rectangle6655|Take 001|BaseLayer
+    7400742: Cylinder01.003|Rectangle6657|Take 001|BaseLayer
+    7400744: Cylinder01.003|Rectangle6659|Take 001|BaseLayer
+    7400746: Cylinder01.003|Rectangle6660|Take 001|BaseLayer
+    7400748: Cylinder01.003|Shape004|Take 001|BaseLayer
+    7400750: Cylinder01.003|Shape01|Take 001|BaseLayer
+    7400752: Cylinder01.003|Shape02|Take 001|BaseLayer
+    7400754: Cylinder01.003|Side Chair001|Take 001|BaseLayer
+    7400756: Cylinder01.003|Side Chair004|Take 001|BaseLayer
+    7400758: Cylinder01.003|Side Chair005|Take 001|BaseLayer
+    7400760: Cylinder01.003|Side Chair006|Take 001|BaseLayer
+    7400762: Cylinder01.003|Side Chair007|Take 001|BaseLayer
+    7400764: Cylinder01.003|Sphere004|Take 001|BaseLayer
+    7400766: Cylinder01.003|sub004|Take 001|BaseLayer
+    7400768: Cylinder01.003|Torus001|Take 001|BaseLayer
+    7400770: Cylinder01.003|Tripod lamp|Take 001|BaseLayer
+    7400772: Cylinder01.003|Tube229|Take 001|BaseLayer
+    7400774: Cylinder01.003|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7400776: Cylinder01.003|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7400778: Cylinder01.003|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7400780: Cylinder01.003|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7400782: Cylinder01.003|zerkal_05|Take 001|BaseLayer
+    7400784: Cylinder01.002|Arc01.Arc003|Take 001|BaseLayer
+    7400786: Cylinder01.002|Bar Stool001|Take 001|BaseLayer
+    7400788: Cylinder01.002|be-Easy ta|Take 001|BaseLayer
+    7400790: "Cylinder01.002|Block:bid\xE8|Take 001|BaseLayer"
+    7400792: Cylinder01.002|Block:divano|Take 001|BaseLayer
+    7400794: Cylinder01.002|Box002|Take 001|BaseLayer
+    7400796: Cylinder01.002|Box005|Take 001|BaseLayer
+    7400798: Cylinder01.002|Box007|Take 001|BaseLayer
+    7400800: Cylinder01.002|Box009|Take 001|BaseLayer
+    7400802: Cylinder01.002|Box012|Take 001|BaseLayer
+    7400804: Cylinder01.002|Box016|Take 001|BaseLayer
+    7400806: Cylinder01.002|Box018|Take 001|BaseLayer
+    7400808: Cylinder01.002|Box019|Take 001|BaseLayer
+    7400810: Cylinder01.002|Box2226.Bo001|Take 001|BaseLayer
+    7400812: Cylinder01.002|Box2226.Bo|Take 001|BaseLayer
+    7400814: Cylinder01.002|Box25884|Take 001|BaseLayer
+    7400816: Cylinder01.002|Box25885|Take 001|BaseLayer
+    7400818: Cylinder01.002|Box25887|Take 001|BaseLayer
+    7400820: Cylinder01.002|Box25889|Take 001|BaseLayer
+    7400822: Cylinder01.002|Box25890|Take 001|BaseLayer
+    7400824: Cylinder01.002|Box25891|Take 001|BaseLayer
+    7400826: Cylinder01.002|Box25892|Take 001|BaseLayer
+    7400828: Cylinder01.002|Box25894|Take 001|BaseLayer
+    7400830: Cylinder01.002|Box25898|Take 001|BaseLayer
+    7400832: Cylinder01.002|Box25902|Take 001|BaseLayer
+    7400834: Cylinder01.002|Box25903|Take 001|BaseLayer
+    7400836: Cylinder01.002|Box25907|Take 001|BaseLayer
+    7400838: Cylinder01.002|Box25909|Take 001|BaseLayer
+    7400840: Cylinder01.002|Box25911|Take 001|BaseLayer
+    7400842: Cylinder01.002|Box263|Take 001|BaseLayer
+    7400844: Cylinder01.002|Box264|Take 001|BaseLayer
+    7400846: Cylinder01.002|Box265|Take 001|BaseLayer
+    7400848: Cylinder01.002|Box270|Take 001|BaseLayer
+    7400850: Cylinder01.002|Box277|Take 001|BaseLayer
+    7400852: Cylinder01.002|Box279|Take 001|BaseLayer
+    7400854: Cylinder01.002|Box280|Take 001|BaseLayer
+    7400856: Cylinder01.002|Box286|Take 001|BaseLayer
+    7400858: Cylinder01.002|Box287|Take 001|BaseLayer
+    7400860: Cylinder01.002|Box288|Take 001|BaseLayer
+    7400862: Cylinder01.002|Box293|Take 001|BaseLayer
+    7400864: Cylinder01.002|Box294|Take 001|BaseLayer
+    7400866: Cylinder01.002|Box296|Take 001|BaseLayer
+    7400868: Cylinder01.002|Box301|Take 001|BaseLayer
+    7400870: Cylinder01.002|Box303|Take 001|BaseLayer
+    7400872: Cylinder01.002|Camera001.Target|Take 001|BaseLayer
+    7400874: Cylinder01.002|Camera001|Take 001|BaseLayer
+    7400876: Cylinder01.002|Circle001.001|Take 001|BaseLayer
+    7400878: Cylinder01.002|Circle002.001|Take 001|BaseLayer
+    7400880: Cylinder01.002|Circle003.001|Take 001|BaseLayer
+    7400882: Cylinder01.002|Circle004|Take 001|BaseLayer
+    7400884: Cylinder01.002|Circle013|Take 001|BaseLayer
+    7400886: Cylinder01.002|Circle015|Take 001|BaseLayer
+    7400888: Cylinder01.002|Component#.Component003|Take 001|BaseLayer
+    7400890: Cylinder01.002|Component#.Component004|Take 001|BaseLayer
+    7400892: Cylinder01.002|Component#.Component006|Take 001|BaseLayer
+    7400894: Cylinder01.002|Component#002|Take 001|BaseLayer
+    7400896: Cylinder01.002|Component#006|Take 001|BaseLayer
+    7400898: Cylinder01.002|Component#|Take 001|BaseLayer
+    7400900: Cylinder01.002|Cylinder007|Take 001|BaseLayer
+    7400902: Cylinder01.002|Cylinder00|Take 001|BaseLayer
+    7400904: Cylinder01.002|Cylinder010|Take 001|BaseLayer
+    7400906: Cylinder01.002|Cylinder01|Take 001|BaseLayer
+    7400908: Cylinder01.002|Cylinder01|Take 001|BaseLayer.001
+    7400910: Cylinder01.002|Cylinder01|Take 001|BaseLayer.002
+    7400912: Cylinder01.002|Cylinder01|Take 001|BaseLayer.003
+    7400914: Cylinder01.002|Group#4_005|Take 001|BaseLayer
+    7400916: Cylinder01.002|Group#4_00|Take 001|BaseLayer
+    7400918: Cylinder01.002|Group003|Take 001|BaseLayer
+    7400920: Cylinder01.002|Group004|Take 001|BaseLayer
+    7400922: Cylinder01.002|Group010|Take 001|BaseLayer
+    7400924: Cylinder01.002|Group011|Take 001|BaseLayer
+    7400926: Cylinder01.002|Group020|Take 001|BaseLayer
+    7400928: Cylinder01.002|Group022|Take 001|BaseLayer
+    7400930: Cylinder01.002|Group023|Take 001|BaseLayer
+    7400932: Cylinder01.002|Group025|Take 001|BaseLayer
+    7400934: Cylinder01.002|Group028|Take 001|BaseLayer
+    7400936: Cylinder01.002|Group029|Take 001|BaseLayer
+    7400938: Cylinder01.002|Group030|Take 001|BaseLayer
+    7400940: Cylinder01.002|Group034|Take 001|BaseLayer
+    7400942: Cylinder01.002|Group04|Take 001|BaseLayer
+    7400944: Cylinder01.002|Group_002ddd|Take 001|BaseLayer
+    7400946: Cylinder01.002|Group_002sdv002|Take 001|BaseLayer
+    7400948: Cylinder01.002|Group_002sdv|Take 001|BaseLayer
+    7400950: Cylinder01.002|Group_002|Take 001|BaseLayer
+    7400952: Cylinder01.002|Group_003|Take 001|BaseLayer
+    7400954: Cylinder01.002|Group_007|Take 001|BaseLayer
+    7400956: Cylinder01.002|Group_008.Group_006|Take 001|BaseLayer
+    7400958: Cylinder01.002|Group_008|Take 001|BaseLayer
+    7400960: Cylinder01.002|Group_009.Group_011|Take 001|BaseLayer
+    7400962: Cylinder01.002|Group_015|Take 001|BaseLayer
+    7400964: Cylinder01.002|Group_016|Take 001|BaseLayer
+    7400966: Cylinder01.002|Group_020|Take 001|BaseLayer
+    7400968: Cylinder01.002|Group_021|Take 001|BaseLayer
+    7400970: Cylinder01.002|Group_022|Take 001|BaseLayer
+    7400972: Cylinder01.002|Group_023|Take 001|BaseLayer
+    7400974: Cylinder01.002|Group_024|Take 001|BaseLayer
+    7400976: Cylinder01.002|Group_025|Take 001|BaseLayer
+    7400978: Cylinder01.002|Group_026|Take 001|BaseLayer
+    7400980: Cylinder01.002|Group_028|Take 001|BaseLayer
+    7400982: Cylinder01.002|Group_032|Take 001|BaseLayer
+    7400984: Cylinder01.002|Group_038|Take 001|BaseLayer
+    7400986: Cylinder01.002|Group_039|Take 001|BaseLayer
+    7400988: Cylinder01.002|Group_040|Take 001|BaseLayer
+    7400990: Cylinder01.002|Group_042|Take 001|BaseLayer
+    7400992: Cylinder01.002|Layer:07Arredi.001|Take 001|BaseLayer
+    7400994: Cylinder01.002|Layer:07Arredi.002|Take 001|BaseLayer
+    7400996: Cylinder01.002|Layer:arredo|Take 001|BaseLayer
+    7400998: Cylinder01.002|Line002|Take 001|BaseLayer
+    7401000: Cylinder01.002|Line008|Take 001|BaseLayer
+    7401002: Cylinder01.002|Line009|Take 001|BaseLayer
+    7401004: Cylinder01.002|Line010|Take 001|BaseLayer
+    7401006: Cylinder01.002|Line011|Take 001|BaseLayer
+    7401008: Cylinder01.002|Line012|Take 001|BaseLayer
+    7401010: Cylinder01.002|Line013|Take 001|BaseLayer
+    7401012: Cylinder01.002|Line014|Take 001|BaseLayer
+    7401014: Cylinder01.002|Line018|Take 001|BaseLayer
+    7401016: Cylinder01.002|Line019|Take 001|BaseLayer
+    7401018: Cylinder01.002|Line020|Take 001|BaseLayer
+    7401020: Cylinder01.002|Line021|Take 001|BaseLayer
+    7401022: Cylinder01.002|Line025|Take 001|BaseLayer
+    7401024: Cylinder01.002|Line02|Take 001|BaseLayer
+    7401026: Cylinder01.002|Line048.Li001|Take 001|BaseLayer
+    7401028: Cylinder01.002|Line049.Li001|Take 001|BaseLayer
+    7401030: Cylinder01.002|Line053.Li002|Take 001|BaseLayer
+    7401032: Cylinder01.002|Line054.Li|Take 001|BaseLayer
+    7401034: Cylinder01.002|Line057|Take 001|BaseLayer
+    7401036: Cylinder01.002|Line059|Take 001|BaseLayer
+    7401038: Cylinder01.002|Line060|Take 001|BaseLayer
+    7401040: Cylinder01.002|Line19181|Take 001|BaseLayer
+    7401042: Cylinder01.002|Object003|Take 001|BaseLayer
+    7401044: Cylinder01.002|Object007|Take 001|BaseLayer
+    7401046: Cylinder01.002|Object008|Take 001|BaseLayer
+    7401048: Cylinder01.002|Object009|Take 001|BaseLayer
+    7401050: Cylinder01.002|Object010|Take 001|BaseLayer
+    7401052: Cylinder01.002|Object011|Take 001|BaseLayer
+    7401054: Cylinder01.002|Object012|Take 001|BaseLayer
+    7401056: Cylinder01.002|Object01|Take 001|BaseLayer
+    7401058: Cylinder01.002|Object03.002|Take 001|BaseLayer
+    7401060: Cylinder01.002|Object034|Take 001|BaseLayer
+    7401062: Cylinder01.002|Object035|Take 001|BaseLayer
+    7401064: Cylinder01.002|Object04.001|Take 001|BaseLayer
+    7401066: Cylinder01.002|Object04|Take 001|BaseLayer
+    7401068: Cylinder01.002|Object05.001|Take 001|BaseLayer
+    7401070: Cylinder01.002|Object05|Take 001|BaseLayer
+    7401072: Cylinder01.002|Object10|Take 001|BaseLayer
+    7401074: Cylinder01.002|Object11|Take 001|BaseLayer
+    7401076: Cylinder01.002|panel_Nard|Take 001|BaseLayer
+    7401078: Cylinder01.002|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7401080: Cylinder01.002|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7401082: Cylinder01.002|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7401084: Cylinder01.002|Plane02#1_001|Take 001|BaseLayer
+    7401086: Cylinder01.002|Plane12|Take 001|BaseLayer
+    7401088: Cylinder01.002|Rectangl030|Take 001|BaseLayer
+    7401090: Cylinder01.002|Rectangl032|Take 001|BaseLayer
+    7401092: Cylinder01.002|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7401094: Cylinder01.002|Rectangle005|Take 001|BaseLayer
+    7401096: Cylinder01.002|Rectangle007|Take 001|BaseLayer
+    7401098: Cylinder01.002|Rectangle016|Take 001|BaseLayer
+    7401100: Cylinder01.002|Rectangle019|Take 001|BaseLayer
+    7401102: Cylinder01.002|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7401104: Cylinder01.002|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7401106: Cylinder01.002|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7401108: Cylinder01.002|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7401110: Cylinder01.002|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7401112: Cylinder01.002|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7401114: Cylinder01.002|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7401116: Cylinder01.002|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7401118: Cylinder01.002|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7401120: Cylinder01.002|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7401122: Cylinder01.002|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7401124: Cylinder01.002|Rectangle6647|Take 001|BaseLayer
+    7401126: Cylinder01.002|Rectangle6649|Take 001|BaseLayer
+    7401128: Cylinder01.002|Rectangle6652|Take 001|BaseLayer
+    7401130: Cylinder01.002|Rectangle6654|Take 001|BaseLayer
+    7401132: Cylinder01.002|Rectangle6655|Take 001|BaseLayer
+    7401134: Cylinder01.002|Rectangle6657|Take 001|BaseLayer
+    7401136: Cylinder01.002|Rectangle6659|Take 001|BaseLayer
+    7401138: Cylinder01.002|Rectangle6660|Take 001|BaseLayer
+    7401140: Cylinder01.002|Shape004|Take 001|BaseLayer
+    7401142: Cylinder01.002|Shape01|Take 001|BaseLayer
+    7401144: Cylinder01.002|Shape02|Take 001|BaseLayer
+    7401146: Cylinder01.002|Side Chair001|Take 001|BaseLayer
+    7401148: Cylinder01.002|Side Chair004|Take 001|BaseLayer
+    7401150: Cylinder01.002|Side Chair005|Take 001|BaseLayer
+    7401152: Cylinder01.002|Side Chair006|Take 001|BaseLayer
+    7401154: Cylinder01.002|Side Chair007|Take 001|BaseLayer
+    7401156: Cylinder01.002|Sphere004|Take 001|BaseLayer
+    7401158: Cylinder01.002|sub004|Take 001|BaseLayer
+    7401160: Cylinder01.002|Torus001|Take 001|BaseLayer
+    7401162: Cylinder01.002|Tripod lamp|Take 001|BaseLayer
+    7401164: Cylinder01.002|Tube229|Take 001|BaseLayer
+    7401166: Cylinder01.002|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7401168: Cylinder01.002|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7401170: Cylinder01.002|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7401172: Cylinder01.002|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7401174: Cylinder01.002|zerkal_05|Take 001|BaseLayer
+    7401176: Cylinder01.001|Arc01.Arc003|Take 001|BaseLayer
+    7401178: Cylinder01.001|Bar Stool001|Take 001|BaseLayer
+    7401180: Cylinder01.001|be-Easy ta|Take 001|BaseLayer
+    7401182: "Cylinder01.001|Block:bid\xE8|Take 001|BaseLayer"
+    7401184: Cylinder01.001|Block:divano|Take 001|BaseLayer
+    7401186: Cylinder01.001|Box002|Take 001|BaseLayer
+    7401188: Cylinder01.001|Box005|Take 001|BaseLayer
+    7401190: Cylinder01.001|Box007|Take 001|BaseLayer
+    7401192: Cylinder01.001|Box009|Take 001|BaseLayer
+    7401194: Cylinder01.001|Box012|Take 001|BaseLayer
+    7401196: Cylinder01.001|Box016|Take 001|BaseLayer
+    7401198: Cylinder01.001|Box018|Take 001|BaseLayer
+    7401200: Cylinder01.001|Box019|Take 001|BaseLayer
+    7401202: Cylinder01.001|Box2226.Bo001|Take 001|BaseLayer
+    7401204: Cylinder01.001|Box2226.Bo|Take 001|BaseLayer
+    7401206: Cylinder01.001|Box25884|Take 001|BaseLayer
+    7401208: Cylinder01.001|Box25885|Take 001|BaseLayer
+    7401210: Cylinder01.001|Box25887|Take 001|BaseLayer
+    7401212: Cylinder01.001|Box25889|Take 001|BaseLayer
+    7401214: Cylinder01.001|Box25890|Take 001|BaseLayer
+    7401216: Cylinder01.001|Box25891|Take 001|BaseLayer
+    7401218: Cylinder01.001|Box25892|Take 001|BaseLayer
+    7401220: Cylinder01.001|Box25894|Take 001|BaseLayer
+    7401222: Cylinder01.001|Box25898|Take 001|BaseLayer
+    7401224: Cylinder01.001|Box25902|Take 001|BaseLayer
+    7401226: Cylinder01.001|Box25903|Take 001|BaseLayer
+    7401228: Cylinder01.001|Box25907|Take 001|BaseLayer
+    7401230: Cylinder01.001|Box25909|Take 001|BaseLayer
+    7401232: Cylinder01.001|Box25911|Take 001|BaseLayer
+    7401234: Cylinder01.001|Box263|Take 001|BaseLayer
+    7401236: Cylinder01.001|Box264|Take 001|BaseLayer
+    7401238: Cylinder01.001|Box265|Take 001|BaseLayer
+    7401240: Cylinder01.001|Box270|Take 001|BaseLayer
+    7401242: Cylinder01.001|Box277|Take 001|BaseLayer
+    7401244: Cylinder01.001|Box279|Take 001|BaseLayer
+    7401246: Cylinder01.001|Box280|Take 001|BaseLayer
+    7401248: Cylinder01.001|Box286|Take 001|BaseLayer
+    7401250: Cylinder01.001|Box287|Take 001|BaseLayer
+    7401252: Cylinder01.001|Box288|Take 001|BaseLayer
+    7401254: Cylinder01.001|Box293|Take 001|BaseLayer
+    7401256: Cylinder01.001|Box294|Take 001|BaseLayer
+    7401258: Cylinder01.001|Box296|Take 001|BaseLayer
+    7401260: Cylinder01.001|Box301|Take 001|BaseLayer
+    7401262: Cylinder01.001|Box303|Take 001|BaseLayer
+    7401264: Cylinder01.001|Camera001.Target|Take 001|BaseLayer
+    7401266: Cylinder01.001|Camera001|Take 001|BaseLayer
+    7401268: Cylinder01.001|Circle001.001|Take 001|BaseLayer
+    7401270: Cylinder01.001|Circle002.001|Take 001|BaseLayer
+    7401272: Cylinder01.001|Circle003.001|Take 001|BaseLayer
+    7401274: Cylinder01.001|Circle004|Take 001|BaseLayer
+    7401276: Cylinder01.001|Circle013|Take 001|BaseLayer
+    7401278: Cylinder01.001|Circle015|Take 001|BaseLayer
+    7401280: Cylinder01.001|Component#.Component003|Take 001|BaseLayer
+    7401282: Cylinder01.001|Component#.Component004|Take 001|BaseLayer
+    7401284: Cylinder01.001|Component#.Component006|Take 001|BaseLayer
+    7401286: Cylinder01.001|Component#002|Take 001|BaseLayer
+    7401288: Cylinder01.001|Component#006|Take 001|BaseLayer
+    7401290: Cylinder01.001|Component#|Take 001|BaseLayer
+    7401292: Cylinder01.001|Cylinder007|Take 001|BaseLayer
+    7401294: Cylinder01.001|Cylinder00|Take 001|BaseLayer
+    7401296: Cylinder01.001|Cylinder010|Take 001|BaseLayer
+    7401298: Cylinder01.001|Cylinder01|Take 001|BaseLayer
+    7401300: Cylinder01.001|Cylinder01|Take 001|BaseLayer.001
+    7401302: Cylinder01.001|Cylinder01|Take 001|BaseLayer.002
+    7401304: Cylinder01.001|Cylinder01|Take 001|BaseLayer.003
+    7401306: Cylinder01.001|Group#4_005|Take 001|BaseLayer
+    7401308: Cylinder01.001|Group#4_00|Take 001|BaseLayer
+    7401310: Cylinder01.001|Group003|Take 001|BaseLayer
+    7401312: Cylinder01.001|Group004|Take 001|BaseLayer
+    7401314: Cylinder01.001|Group010|Take 001|BaseLayer
+    7401316: Cylinder01.001|Group011|Take 001|BaseLayer
+    7401318: Cylinder01.001|Group020|Take 001|BaseLayer
+    7401320: Cylinder01.001|Group022|Take 001|BaseLayer
+    7401322: Cylinder01.001|Group023|Take 001|BaseLayer
+    7401324: Cylinder01.001|Group025|Take 001|BaseLayer
+    7401326: Cylinder01.001|Group028|Take 001|BaseLayer
+    7401328: Cylinder01.001|Group029|Take 001|BaseLayer
+    7401330: Cylinder01.001|Group030|Take 001|BaseLayer
+    7401332: Cylinder01.001|Group034|Take 001|BaseLayer
+    7401334: Cylinder01.001|Group04|Take 001|BaseLayer
+    7401336: Cylinder01.001|Group_002ddd|Take 001|BaseLayer
+    7401338: Cylinder01.001|Group_002sdv002|Take 001|BaseLayer
+    7401340: Cylinder01.001|Group_002sdv|Take 001|BaseLayer
+    7401342: Cylinder01.001|Group_002|Take 001|BaseLayer
+    7401344: Cylinder01.001|Group_003|Take 001|BaseLayer
+    7401346: Cylinder01.001|Group_007|Take 001|BaseLayer
+    7401348: Cylinder01.001|Group_008.Group_006|Take 001|BaseLayer
+    7401350: Cylinder01.001|Group_008|Take 001|BaseLayer
+    7401352: Cylinder01.001|Group_009.Group_011|Take 001|BaseLayer
+    7401354: Cylinder01.001|Group_015|Take 001|BaseLayer
+    7401356: Cylinder01.001|Group_016|Take 001|BaseLayer
+    7401358: Cylinder01.001|Group_020|Take 001|BaseLayer
+    7401360: Cylinder01.001|Group_021|Take 001|BaseLayer
+    7401362: Cylinder01.001|Group_022|Take 001|BaseLayer
+    7401364: Cylinder01.001|Group_023|Take 001|BaseLayer
+    7401366: Cylinder01.001|Group_024|Take 001|BaseLayer
+    7401368: Cylinder01.001|Group_025|Take 001|BaseLayer
+    7401370: Cylinder01.001|Group_026|Take 001|BaseLayer
+    7401372: Cylinder01.001|Group_028|Take 001|BaseLayer
+    7401374: Cylinder01.001|Group_032|Take 001|BaseLayer
+    7401376: Cylinder01.001|Group_038|Take 001|BaseLayer
+    7401378: Cylinder01.001|Group_039|Take 001|BaseLayer
+    7401380: Cylinder01.001|Group_040|Take 001|BaseLayer
+    7401382: Cylinder01.001|Group_042|Take 001|BaseLayer
+    7401384: Cylinder01.001|Layer:07Arredi.001|Take 001|BaseLayer
+    7401386: Cylinder01.001|Layer:07Arredi.002|Take 001|BaseLayer
+    7401388: Cylinder01.001|Layer:arredo|Take 001|BaseLayer
+    7401390: Cylinder01.001|Line002|Take 001|BaseLayer
+    7401392: Cylinder01.001|Line008|Take 001|BaseLayer
+    7401394: Cylinder01.001|Line009|Take 001|BaseLayer
+    7401396: Cylinder01.001|Line010|Take 001|BaseLayer
+    7401398: Cylinder01.001|Line011|Take 001|BaseLayer
+    7401400: Cylinder01.001|Line012|Take 001|BaseLayer
+    7401402: Cylinder01.001|Line013|Take 001|BaseLayer
+    7401404: Cylinder01.001|Line014|Take 001|BaseLayer
+    7401406: Cylinder01.001|Line018|Take 001|BaseLayer
+    7401408: Cylinder01.001|Line019|Take 001|BaseLayer
+    7401410: Cylinder01.001|Line020|Take 001|BaseLayer
+    7401412: Cylinder01.001|Line021|Take 001|BaseLayer
+    7401414: Cylinder01.001|Line025|Take 001|BaseLayer
+    7401416: Cylinder01.001|Line02|Take 001|BaseLayer
+    7401418: Cylinder01.001|Line048.Li001|Take 001|BaseLayer
+    7401420: Cylinder01.001|Line049.Li001|Take 001|BaseLayer
+    7401422: Cylinder01.001|Line053.Li002|Take 001|BaseLayer
+    7401424: Cylinder01.001|Line054.Li|Take 001|BaseLayer
+    7401426: Cylinder01.001|Line057|Take 001|BaseLayer
+    7401428: Cylinder01.001|Line059|Take 001|BaseLayer
+    7401430: Cylinder01.001|Line060|Take 001|BaseLayer
+    7401432: Cylinder01.001|Line19181|Take 001|BaseLayer
+    7401434: Cylinder01.001|Object003|Take 001|BaseLayer
+    7401436: Cylinder01.001|Object007|Take 001|BaseLayer
+    7401438: Cylinder01.001|Object008|Take 001|BaseLayer
+    7401440: Cylinder01.001|Object009|Take 001|BaseLayer
+    7401442: Cylinder01.001|Object010|Take 001|BaseLayer
+    7401444: Cylinder01.001|Object011|Take 001|BaseLayer
+    7401446: Cylinder01.001|Object012|Take 001|BaseLayer
+    7401448: Cylinder01.001|Object01|Take 001|BaseLayer
+    7401450: Cylinder01.001|Object03.002|Take 001|BaseLayer
+    7401452: Cylinder01.001|Object034|Take 001|BaseLayer
+    7401454: Cylinder01.001|Object035|Take 001|BaseLayer
+    7401456: Cylinder01.001|Object04.001|Take 001|BaseLayer
+    7401458: Cylinder01.001|Object04|Take 001|BaseLayer
+    7401460: Cylinder01.001|Object05.001|Take 001|BaseLayer
+    7401462: Cylinder01.001|Object05|Take 001|BaseLayer
+    7401464: Cylinder01.001|Object10|Take 001|BaseLayer
+    7401466: Cylinder01.001|Object11|Take 001|BaseLayer
+    7401468: Cylinder01.001|panel_Nard|Take 001|BaseLayer
+    7401470: Cylinder01.001|Plane02#1_.Plane02#011|Take 001|BaseLayer
+    7401472: Cylinder01.001|Plane02#1_.Plane02#012|Take 001|BaseLayer
+    7401474: Cylinder01.001|Plane02#1_.Plane02#10|Take 001|BaseLayer
+    7401476: Cylinder01.001|Plane02#1_001|Take 001|BaseLayer
+    7401478: Cylinder01.001|Plane12|Take 001|BaseLayer
+    7401480: Cylinder01.001|Rectangl030|Take 001|BaseLayer
+    7401482: Cylinder01.001|Rectangl032|Take 001|BaseLayer
+    7401484: Cylinder01.001|Rectangl25.Rectangl029|Take 001|BaseLayer
+    7401486: Cylinder01.001|Rectangle005|Take 001|BaseLayer
+    7401488: Cylinder01.001|Rectangle007|Take 001|BaseLayer
+    7401490: Cylinder01.001|Rectangle016|Take 001|BaseLayer
+    7401492: Cylinder01.001|Rectangle019|Take 001|BaseLayer
+    7401494: Cylinder01.001|Rectangle2.Rectangl025|Take 001|BaseLayer
+    7401496: Cylinder01.001|Rectangle2.Rectangl027|Take 001|BaseLayer
+    7401498: Cylinder01.001|Rectangle2.Rectangl028|Take 001|BaseLayer
+    7401500: Cylinder01.001|Rectangle2.Rectangl029|Take 001|BaseLayer
+    7401502: Cylinder01.001|Rectangle2.Rectangl030|Take 001|BaseLayer
+    7401504: Cylinder01.001|Rectangle2.Rectangl031|Take 001|BaseLayer
+    7401506: Cylinder01.001|Rectangle2.Rectangl032|Take 001|BaseLayer
+    7401508: Cylinder01.001|Rectangle2.Rectangl033|Take 001|BaseLayer
+    7401510: Cylinder01.001|Rectangle2.Rectangl037|Take 001|BaseLayer
+    7401512: Cylinder01.001|Rectangle2.Rectangl038|Take 001|BaseLayer
+    7401514: Cylinder01.001|Rectangle2.Rectangle010|Take 001|BaseLayer
+    7401516: Cylinder01.001|Rectangle6647|Take 001|BaseLayer
+    7401518: Cylinder01.001|Rectangle6649|Take 001|BaseLayer
+    7401520: Cylinder01.001|Rectangle6652|Take 001|BaseLayer
+    7401522: Cylinder01.001|Rectangle6654|Take 001|BaseLayer
+    7401524: Cylinder01.001|Rectangle6655|Take 001|BaseLayer
+    7401526: Cylinder01.001|Rectangle6657|Take 001|BaseLayer
+    7401528: Cylinder01.001|Rectangle6659|Take 001|BaseLayer
+    7401530: Cylinder01.001|Rectangle6660|Take 001|BaseLayer
+    7401532: Cylinder01.001|Shape004|Take 001|BaseLayer
+    7401534: Cylinder01.001|Shape01|Take 001|BaseLayer
+    7401536: Cylinder01.001|Shape02|Take 001|BaseLayer
+    7401538: Cylinder01.001|Side Chair001|Take 001|BaseLayer
+    7401540: Cylinder01.001|Side Chair004|Take 001|BaseLayer
+    7401542: Cylinder01.001|Side Chair005|Take 001|BaseLayer
+    7401544: Cylinder01.001|Side Chair006|Take 001|BaseLayer
+    7401546: Cylinder01.001|Side Chair007|Take 001|BaseLayer
+    7401548: Cylinder01.001|Sphere004|Take 001|BaseLayer
+    7401550: Cylinder01.001|sub004|Take 001|BaseLayer
+    7401552: Cylinder01.001|Torus001|Take 001|BaseLayer
+    7401554: Cylinder01.001|Tripod lamp|Take 001|BaseLayer
+    7401556: Cylinder01.001|Tube229|Take 001|BaseLayer
+    7401558: Cylinder01.001|XUAT_MAYA_Object02|Take 001|BaseLayer
+    7401560: Cylinder01.001|XUAT_MAYA_Object15|Take 001|BaseLayer
+    7401562: Cylinder01.001|XUAT_MAYA_Object16|Take 001|BaseLayer
+    7401564: Cylinder01.001|XUAT_MAYA_Object18|Take 001|BaseLayer
+    7401566: Cylinder01.001|zerkal_05|Take 001|BaseLayer
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
