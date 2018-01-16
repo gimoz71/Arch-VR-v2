@@ -15,6 +15,7 @@ ModelImporter:
     100014: Cube.021
     100016: Cube.022
     100018: Cube.023
+    100020: Cube
     400000: //RootNode
     400002: Cube.019
     400004: Cube.020
@@ -25,7 +26,9 @@ ModelImporter:
     400014: Cube.021
     400016: Cube.022
     400018: Cube.023
+    400020: Cube
     2100000: No Name
+    2100002: Material
     2300000: Cube.019
     2300002: Cube.020
     2300004: Cylinder01.001
@@ -36,6 +39,7 @@ ModelImporter:
     2300014: Cube.022
     2300016: Cube.023
     2300018: //RootNode
+    2300020: Cube
     3300000: Cube.019
     3300002: Cube.020
     3300004: Cylinder01.001
@@ -46,6 +50,7 @@ ModelImporter:
     3300014: Cube.022
     3300016: Cube.023
     3300018: //RootNode
+    3300020: Cube
     4300000: Cube.020
     4300002: Cube.019
     4300004: Cylinder01.004
@@ -55,6 +60,7 @@ ModelImporter:
     4300012: Cube.023
     4300014: Cube.022
     4300016: Cube.021
+    4300018: Cube
     7400000: Cylinder01.004|Arc01.Arc003|Take 001|BaseLayer
     7400002: Cylinder01.004|Bar Stool001|Take 001|BaseLayer
     7400004: Cylinder01.004|be-Easy ta|Take 001|BaseLayer
