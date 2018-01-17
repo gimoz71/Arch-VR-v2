@@ -1,53 +1,31 @@
 fileFormatVersion: 2
-guid: e3993dd8df702ef4f9586be9552482b0
-timeCreated: 1491483665
-licenseType: Store
+guid: dccfe5f738b7de949ac9ef69e818bd45
+timeCreated: 1516195840
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
-    100002: pCube27
-    100004: pCube28
-    100006: pCube29
-    100008: pCube30
-    100010: pCube31
-    100012: pCube34
+    100002: Cylinder.001
+    100004: Cylinder.002
     400000: //RootNode
-    400002: pCube27
-    400004: pCube28
-    400006: pCube29
-    400008: pCube30
-    400010: pCube31
-    400012: pCube34
-    2300000: pCube27
-    2300002: pCube28
-    2300004: pCube29
-    2300006: pCube30
-    2300008: pCube31
-    2300010: pCube34
-    3300000: pCube27
-    3300002: pCube28
-    3300004: pCube29
-    3300006: pCube30
-    3300008: pCube31
-    3300010: pCube34
-    4300000: pCube27
-    4300002: pCube28
-    4300004: pCube29
-    4300006: pCube30
-    4300008: pCube31
-    4300010: pCube34
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: lambert1
-    second: {fileID: 2100000, guid: 94fea84fa2bc20f40b49a7944e3ff0a2, type: 2}
+    400002: Cylinder.001
+    400004: Cylinder.002
+    2100000: No Name
+    2300000: //RootNode
+    2300002: Cylinder.001
+    2300004: Cylinder.002
+    3300000: //RootNode
+    3300002: Cylinder.001
+    3300004: Cylinder.002
+    4300000: Cylinder.001
+    4300002: Cylinder.002
+  externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 0
+    materialLocation: 1
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -69,35 +47,35 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 0
+    isReadable: 1
   meshes:
     lODScreenPercentages: []
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    importVisibility: 0
-    importBlendShapes: 0
-    importCameras: 0
-    importLights: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
     swapUVChannels: 0
-    generateSecondaryUV: 1
+    generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
     preserveHierarchy: 0
-    indexFormat: 1
-    secondaryUVAngleDistortion: 1
-    secondaryUVAreaDistortion: 1
-    secondaryUVHardAngle: 180
-    secondaryUVPackMargin: 19
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
-    normalSmoothAngle: 180
-    normalImportMode: 1
+    normalSmoothAngle: 60
+    normalImportMode: 0
     tangentImportMode: 3
-    normalCalculationMode: 0
-  importAnimation: 0
+    normalCalculationMode: 4
+  importAnimation: 1
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
