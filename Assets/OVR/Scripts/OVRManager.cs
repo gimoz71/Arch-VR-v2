@@ -19,14 +19,13 @@ limitations under the License.
 
 ************************************************************************************/
 
-#if !UNITY_5_4_OR_NEWER
-#error Oculus Utilities require Unity 5.4 or higher.
+#if !UNITY_5_6_OR_NEWER
+#error Oculus Utilities require Unity 5.6 or higher.
 #endif
 
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using VR = UnityEngine.VR;
 #if UNITY_EDITOR
 using UnityEditor;
 #endif
@@ -47,6 +46,14 @@ public class OVRManager : MonoBehaviour
 		Default = OVRPlugin.EyeTextureFormat.Default,
 		R16G16B16A16_FP = OVRPlugin.EyeTextureFormat.R16G16B16A16_FP,
 		R11G11B10_FP = OVRPlugin.EyeTextureFormat.R11G11B10_FP,
+	}
+
+	public enum TiledMultiResLevel
+	{
+		Off = OVRPlugin.TiledMultiResLevel.Off,
+		LMSLow = OVRPlugin.TiledMultiResLevel.LMSLow,
+		LMSMedium = OVRPlugin.TiledMultiResLevel.LMSMedium,
+		LMSHigh = OVRPlugin.TiledMultiResLevel.LMSHigh,
 	}
 
 	/// <summary>
@@ -125,16 +132,6 @@ public class OVRManager : MonoBehaviour
 	/// Occurs when Input Focus is lost.
 	/// </summary>
 	public static event Action InputFocusLost;
-
-	/// <summary>
-	/// Occurs when System Overlay like Dashboard is Presented.
-	/// </summary>
-	public static event Action SystemOverlayPresented;
-
-	/// <summary>
-	/// Occurs when System Overlay like Dashboard is hidden.
-	/// </summary>
-	public static event Action SystemOverlayHide;
 
 	/// <summary>
 	/// Occurs when the active Audio Out device has changed and a restart is needed.
@@ -247,18 +244,6 @@ public class OVRManager : MonoBehaviour
 		}
 	}
 
-	private static bool _hadSystemOverlayPresented = false;
-	/// <summary>
-	/// If true, the app has system overlay presented.
-	/// </summary>
-	public static bool hasSystemOverlayPresent
-	{
-		get
-		{
-			return OVRPlugin.hasSystemOverlayPresent;
-		}
-	}
-
 	/// <summary>
 	/// If true, then the Oculus health and safety warning (HSW) is currently visible.
 	/// </summary>
@@ -327,8 +312,21 @@ public class OVRManager : MonoBehaviour
 	/// <summary>
 	/// If true, dynamic resolution will be enabled
 	/// </summary>
-	[Tooltip("If true, dynamic resolution will be enabled")]
+	[Tooltip("If true, dynamic resolution will be enabled On PC")]
 	public bool enableAdaptiveResolution = false;
+
+	/// <summary>
+	/// Adaptive Resolution is based on Unity engine's renderViewportScale/eyeTextureResolutionScale feature 
+	/// But renderViewportScale was broken in an array of Unity engines, this function help to filter out those broken engines
+	/// </summary>
+	public static bool IsAdaptiveResSupportedByEngine()
+	{
+#if UNITY_2017_1_OR_NEWER
+		return Application.unityVersion != "2017.1.0f1";
+#else
+		return false;
+#endif
+	}
 
 	/// <summary>
 	/// Min RenderScale the app can reach under adaptive resolution mode ( enableAdaptiveResolution = true );
@@ -652,7 +650,6 @@ public class OVRManager : MonoBehaviour
 
 	/// <summary>
 	/// Gets or sets the eye texture format.
-	/// This feature is only for UNITY_5_6_OR_NEWER On PC
 	/// </summary>
 	public static EyeTextureFormat eyeTextureFormat
 	{
@@ -666,6 +663,71 @@ public class OVRManager : MonoBehaviour
 			OVRPlugin.SetDesiredEyeTextureFormat((OVRPlugin.EyeTextureFormat)value);
 		}
 	}
+
+	/// <summary>
+	/// Gets if tiled-based multi-resolution technique is supported
+	/// This feature is only supported on QCOMM-based Android devices
+	/// </summary>
+	public static bool tiledMultiResSupported
+	{
+		get
+		{
+			return OVRPlugin.tiledMultiResSupported;
+		}
+	}
+
+	/// <summary>
+	/// Gets or sets the tiled-based multi-resolution level
+	/// This feature is only supported on QCOMM-based Android devices
+	/// </summary>
+	public static TiledMultiResLevel tiledMultiResLevel
+	{
+		get
+		{
+			if (!OVRPlugin.tiledMultiResSupported)
+			{
+				Debug.LogWarning("Tiled-based Multi-resolution feature is not supported");
+			}
+			return (TiledMultiResLevel)OVRPlugin.tiledMultiResLevel;
+		}
+		set
+		{
+			if (!OVRPlugin.tiledMultiResSupported)
+			{
+				Debug.LogWarning("Tiled-based Multi-resolution feature is not supported");
+			}
+			OVRPlugin.tiledMultiResLevel = (OVRPlugin.TiledMultiResLevel)value;
+		}
+	}
+
+	/// <summary>
+	/// Gets if the GPU Utility is supported
+	/// This feature is only supported on QCOMM-based Android devices
+	/// </summary>
+	public static bool gpuUtilSupported
+	{
+		get
+		{
+			return OVRPlugin.gpuUtilSupported;
+		}
+	}
+
+	/// <summary>
+	/// Gets the GPU Utilised Level (0.0 - 1.0)
+	/// This feature is only supported on QCOMM-based Android devices
+	/// </summary>
+	public static float gpuUtilLevel
+	{
+		get
+		{
+			if (!OVRPlugin.gpuUtilSupported)
+			{
+				Debug.LogWarning("GPU Util is not supported");
+			}
+			return OVRPlugin.gpuUtilLevel;
+		}
+	}
+
 
 	[Header("Tracking")]
 	[SerializeField]
@@ -921,6 +983,14 @@ public class OVRManager : MonoBehaviour
 		}
 #endif
 
+#if UNITY_EDITOR_WIN || UNITY_STANDALONE_WIN
+		if (enableAdaptiveResolution && !OVRManager.IsAdaptiveResSupportedByEngine())
+		{
+			enableAdaptiveResolution = false;
+			UnityEngine.Debug.LogError("Your current Unity Engine " + Application.unityVersion + " might have issues to support adaptive resolution, please disable it under OVRManager");
+		}
+#endif
+
 		Initialize();
 
 		if (resetTrackerOnLoad)
@@ -1116,43 +1186,12 @@ public class OVRManager : MonoBehaviour
 
 		_hadInputFocus = hasInputFocus;
 
-		// Dispatch System Overlay present events.
-
-		bool hasSystemOverlayPresent = OVRPlugin.hasSystemOverlayPresent;
-
-		if (_hadSystemOverlayPresented && !hasSystemOverlayPresent)
-		{
-			try
-			{
-				if (SystemOverlayHide != null)
-					SystemOverlayHide();
-			}
-			catch (Exception e)
-			{
-				Debug.LogError("Caught Exception: " + e);
-			}
-		}
-
-		if (!_hadSystemOverlayPresented && hasSystemOverlayPresent)
-		{
-			try
-			{
-				if (SystemOverlayPresented != null)
-					SystemOverlayPresented();
-			}
-			catch (Exception e)
-			{
-				Debug.LogError("Caught Exception: " + e);
-			}
-		}
-
-		_hadSystemOverlayPresented = hasSystemOverlayPresent;
-
 		// Changing effective rendering resolution dynamically according performance
-#if (UNITY_EDITOR_WIN || UNITY_STANDALONE_WIN) && UNITY_5_4_OR_NEWER
+#if (UNITY_EDITOR_WIN || UNITY_STANDALONE_WIN)
 
 		if (enableAdaptiveResolution)
 		{
+#if UNITY_2017_2_OR_NEWER
 			if (UnityEngine.XR.XRSettings.eyeTextureResolutionScale < maxRenderScale)
 			{
 				// Allocate renderScale to max to avoid re-allocation
@@ -1168,6 +1207,23 @@ public class OVRManager : MonoBehaviour
 			float recommendedViewportScale = OVRPlugin.GetEyeRecommendedResolutionScale() / UnityEngine.XR.XRSettings.eyeTextureResolutionScale;
 			recommendedViewportScale = Mathf.Clamp(recommendedViewportScale, minViewportScale, 1.0f);
 			UnityEngine.XR.XRSettings.renderViewportScale = recommendedViewportScale;
+#else
+			if (UnityEngine.VR.VRSettings.renderScale < maxRenderScale)
+			{
+				// Allocate renderScale to max to avoid re-allocation
+				UnityEngine.VR.VRSettings.renderScale = maxRenderScale;
+			}
+			else
+			{
+				// Adjusting maxRenderScale in case app started with a larger renderScale value
+				maxRenderScale = Mathf.Max(maxRenderScale, UnityEngine.VR.VRSettings.renderScale);
+			}
+			minRenderScale = Mathf.Min(minRenderScale, maxRenderScale);
+			float minViewportScale = minRenderScale / UnityEngine.VR.VRSettings.renderScale;
+			float recommendedViewportScale = OVRPlugin.GetEyeRecommendedResolutionScale() / UnityEngine.VR.VRSettings.renderScale;
+			recommendedViewportScale = Mathf.Clamp(recommendedViewportScale, minViewportScale, 1.0f);
+			UnityEngine.VR.VRSettings.renderViewportScale = recommendedViewportScale;
+#endif
 		}
 #endif
 
@@ -1352,13 +1408,5 @@ public class OVRManager : MonoBehaviour
 			return;
 
 		OVRPlugin.ShowUI(OVRPlugin.PlatformUI.ConfirmQuit);
-	}
-
-	public static void PlatformUIGlobalMenu()
-	{
-		if (!isHmdPresent)
-			return;
-
-		OVRPlugin.ShowUI(OVRPlugin.PlatformUI.GlobalMenu);
 	}
 }
