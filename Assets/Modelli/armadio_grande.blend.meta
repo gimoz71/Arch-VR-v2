@@ -77,7 +77,22 @@ ModelImporter:
     4300024: Mesh141
     7400000: Default Take
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leather__brown
+    second: {fileID: 2100000, guid: 3c2fc78814714a0459d59f53e1ac8205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Black_Nero
+    second: {fileID: 2100000, guid: 7dc5b634b4525db478788a3394307631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: silver
+    second: {fileID: 2100000, guid: d11a6108fd050264e8f1d84653df470f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

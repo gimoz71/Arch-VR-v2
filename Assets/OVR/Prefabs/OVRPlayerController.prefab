@@ -2307,6 +2307,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: VRRaycaster+Callback, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
+  startColor: {r: 0, g: 1, b: 0.3039999, a: 1}
+  endColor: {r: 0, g: 1, b: 0.30588236, a: 1}
 --- !u!114 &114933305140965774
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2346,7 +2348,7 @@ LineRenderer:
   m_LightProbeUsage: 0
   m_ReflectionProbeUsage: 0
   m_Materials:
-  - {fileID: 2100000, guid: 42b6c4a997bed5e44b513b92eff26291, type: 2}
+  - {fileID: 2100000, guid: 3011274064686fd4e84d91a8b1b58681, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

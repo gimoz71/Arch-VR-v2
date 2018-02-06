@@ -1058,7 +1058,7 @@ GameObject:
   - component: {fileID: 835086052}
   m_Layer: 0
   m_Name: portaCorridoioCamera2
-  m_TagString: Untagged
+  m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1233,7 +1233,7 @@ GameObject:
   - component: {fileID: 867415712}
   m_Layer: 0
   m_Name: porta
-  m_TagString: Untagged
+  m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1388,7 +1388,7 @@ GameObject:
   - component: {fileID: 1098174840}
   m_Layer: 0
   m_Name: portaCorridoioCamera1
-  m_TagString: Untagged
+  m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
@@ -1738,7 +1738,7 @@ GameObject:
   - component: {fileID: 1580912193}
   m_Layer: 0
   m_Name: portaCorridoioSala
-  m_TagString: Untagged
+  m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
