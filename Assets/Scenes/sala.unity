@@ -24,7 +24,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 1, g: 1, b: 1, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 2
+  m_AmbientIntensity: 0.25
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: c3b594d2b5615d343b291be628544ca1, type: 2}
@@ -3235,7 +3235,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 231de05b0d716ed4381b6126e9f00245, type: 2}
     - target: {fileID: 400030, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 400026, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
@@ -3255,27 +3255,27 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400034, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 4
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 400036, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 400038, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 7
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 400044, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 9
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 400042, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 11
+      value: 12
       objectReference: {fileID: 0}
     - target: {fileID: 400040, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 12
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 2300034, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -3331,7 +3331,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400058, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400054, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
@@ -3339,23 +3339,23 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400046, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400052, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 16
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 400050, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 400048, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 400056, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 2300050, guid: 633c0f34bbf779f49987d410e1e27f6a, type: 3}
       propertyPath: m_Materials.Array.data[0]

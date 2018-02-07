@@ -110,41 +110,41 @@ public class VRRaycaster : MonoBehaviour
 
             if (hit.collider.tag == "door")
             {
-                Debug.Log("COLLIDEEEEEEEEE");
                 lineRenderer.SetColors(startColor, endColor);
-            } else
+            }
+            else
             {
                 lineRenderer.SetColors(Color.white, Color.white);
             }
-            if (hit.collider.name == "portaSalaCorridoio" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaSalaCorridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("corridoio");
             }
-            if (hit.collider.name == "portaCorridoioSala" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaCorridoioSala" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("sala");
             }
-            if (hit.collider.name == "portaCorridoioCamera1" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaCorridoioCamera1" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("camera1");
             }
-            if (hit.collider.name == "portaCamera1Corridoio" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaCamera1Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("corridoio");
             }
-            if (hit.collider.name == "portaCorridoioCamera2" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaCorridoioCamera2" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("camera2");
             }
-            if (hit.collider.name == "portaCamera2Corridoio" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaCamera2Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("corridoio");
             }
-            if (hit.collider.name == "portaCorridoioBagno1" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaCorridoioBagno1" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("bagno1");
             }
-            if (hit.collider.name == "portaBagno1Corridoio" && OVRInput.GetUp(OVRInput.Button.PrimaryTouchpad))
+            if (hit.collider.name == "portaBagno1Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 SceneManager.LoadScene("corridoio");
             }

@@ -17,3 +17,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/camera2.unity
     guid: 1874e8259e6e093429934b5270808206
+  - enabled: 1
+    path: Assets/Scenes/bagno1.unity
+    guid: c994829755742154392b28853066ccd7

@@ -1193,7 +1193,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_LocalPosition.z
-      value: -0.649
+      value: -1.018
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_LocalRotation.x
@@ -1232,7 +1232,7 @@ GameObject:
   - component: {fileID: 867415713}
   - component: {fileID: 867415712}
   m_Layer: 0
-  m_Name: porta
+  m_Name: portaCorridoioBagno1
   m_TagString: door
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
