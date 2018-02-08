@@ -14,6 +14,11 @@ ModelImporter:
     100012: mura_010
     100014: mura_011
     100016: mura_012
+    100018: mura_000
+    100020: mura_003
+    100022: mura_004
+    100024: mura_005
+    100026: mura_006
     400000: //RootNode
     400002: Cube_004
     400004: Cube_005
@@ -23,6 +28,11 @@ ModelImporter:
     400012: mura_010
     400014: mura_011
     400016: mura_012
+    400018: mura_000
+    400020: mura_003
+    400022: mura_004
+    400024: mura_005
+    400026: mura_006
     2100000: unnamed
     2300000: Cube_004
     2300002: Cube_005
@@ -32,6 +42,11 @@ ModelImporter:
     2300010: mura_010
     2300012: mura_011
     2300014: mura_012
+    2300016: mura_000
+    2300018: mura_003
+    2300020: mura_004
+    2300022: mura_005
+    2300024: mura_006
     3300000: Cube_004
     3300002: Cube_005
     3300004: Cube_006
@@ -40,6 +55,11 @@ ModelImporter:
     3300010: mura_010
     3300012: mura_011
     3300014: mura_012
+    3300016: mura_000
+    3300018: mura_003
+    3300020: mura_004
+    3300022: mura_005
+    3300024: mura_006
     4300000: Cube_006
     4300002: Cube_005
     4300004: Cube_004
@@ -48,6 +68,11 @@ ModelImporter:
     4300010: mura_010
     4300012: mura_001
     4300014: mura_002
+    4300016: mura_006
+    4300018: mura_005
+    4300020: mura_004
+    4300022: mura_003
+    4300024: mura_000
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
