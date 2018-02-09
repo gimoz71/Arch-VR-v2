@@ -1,6 +1,8 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using System.Collections;
 
 public class VRRaycaster : MonoBehaviour
 {
@@ -19,6 +21,9 @@ public class VRRaycaster : MonoBehaviour
 
     public Color startColor;
     public Color endColor;
+
+    public Image black;
+    public Animator anim;
 
     void Awake()
     {
@@ -116,38 +121,55 @@ public class VRRaycaster : MonoBehaviour
             {
                 lineRenderer.SetColors(Color.white, Color.white);
             }
-            if (hit.collider.name == "portaSalaCorridoio" /*&& OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger)*/)
+            if (hit.collider.name == "portaSalaCorridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("corridoio");
+                StartCoroutine(Fading("corridoio"));
+                //SceneManager.LoadScene("corridoio");
             }
             if (hit.collider.name == "portaCorridoioSala" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("sala");
+                StartCoroutine(Fading("sala"));
+                //SceneManager.LoadScene("sala");
             }
             if (hit.collider.name == "portaCorridoioCamera1" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("camera1");
+                StartCoroutine(Fading("camera1"));
+                //SceneManager.LoadScene("camera1");
             }
             if (hit.collider.name == "portaCamera1Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("corridoio");
+                StartCoroutine(Fading("corridoio"));
+                //SceneManager.LoadScene("corridoio");
             }
             if (hit.collider.name == "portaCorridoioCamera2" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("camera2");
+                StartCoroutine(Fading("camera2"));
+                //SceneManager.LoadScene("camera2");
             }
             if (hit.collider.name == "portaCamera2Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("corridoio");
+                StartCoroutine(Fading("corridoio"));
+                //SceneManager.LoadScene("corridoio");
             }
             if (hit.collider.name == "portaCorridoioBagno1" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("bagno1");
+                StartCoroutine(Fading("bagno1"));
+                //SceneManager.LoadScene("bagno1");
             }
             if (hit.collider.name == "portaBagno1Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
-                SceneManager.LoadScene("corridoio");
+                StartCoroutine(Fading("corridoio"));
+                //SceneManager.LoadScene("corridoio");
             }
-        }
+        };
+    }
+
+
+    IEnumerator Fading(string scene)
+    {
+        anim.SetBool("fade", true);
+        Debug.Log(black.color.a);
+        yield return new WaitUntil(() => black.color.a == 1);
+        SceneManager.LoadScene(scene);
     }
 }

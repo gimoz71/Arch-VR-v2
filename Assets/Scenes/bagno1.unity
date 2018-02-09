@@ -125,7 +125,6 @@ GameObject:
   m_Component:
   - component: {fileID: 3429832}
   - component: {fileID: 3429835}
-  - component: {fileID: 3429834}
   - component: {fileID: 3429833}
   m_Layer: 0
   m_Name: Cube
@@ -182,18 +181,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &3429834
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 3429831}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &3429835
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -348,7 +335,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 026692b5be4bc0b4a92aa7d0557c76a7, type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 026692b5be4bc0b4a92aa7d0557c76a7, type: 3}
       propertyPath: m_LocalPosition.y
@@ -426,7 +413,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: ed3ecf1eb714ce74ea87a8f024b7364e, type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 2300000, guid: ed3ecf1eb714ce74ea87a8f024b7364e, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -490,10 +477,6 @@ Prefab:
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
       propertyPath: m_RootOrder
       value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 2}
@@ -1305,6 +1288,7 @@ GameObject:
   - component: {fileID: 681970061}
   - component: {fileID: 681970063}
   - component: {fileID: 681970062}
+  - component: {fileID: 681970064}
   m_Layer: 0
   m_Name: mura_011
   m_TagString: Untagged
@@ -1368,6 +1352,20 @@ MeshFilter:
     type: 3}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 681970060}
+  m_Mesh: {fileID: 4300008, guid: 88deaaa9d1d59534ab93bdff862f62f6, type: 3}
+--- !u!64 &681970064
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 681970060}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300008, guid: 88deaaa9d1d59534ab93bdff862f62f6, type: 3}
 --- !u!1 &682959561
 GameObject:
@@ -1686,7 +1684,7 @@ Transform:
   - {fileID: 264682673}
   - {fileID: 1999930073}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1095560173
 GameObject:
@@ -1868,7 +1866,7 @@ Transform:
   - {fileID: 392677218}
   - {fileID: 1363039582}
   m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: -180.00002, z: 0}
 --- !u!1 &1197885756
 GameObject:
@@ -1975,8 +1973,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.200433, y: 1, z: 0.79467815}
-  m_Center: {x: 0.10021648, y: 0, z: -0.102660954}
+  m_Size: {x: 1.200433, y: 1.9108875, z: 0.5314246}
+  m_Center: {x: 0.10021651, y: 0.45544374, z: -0.2342878}
 --- !u!1001 &1294934963
 Prefab:
   m_ObjectHideFlags: 0
@@ -2372,7 +2370,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4599488406146532, guid: cd5abdf5e0339cb43b70b5780218d095, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4599488406146532, guid: cd5abdf5e0339cb43b70b5780218d095, type: 2}
       propertyPath: m_LocalScale.x
@@ -2453,8 +2451,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.6468961, y: 0.18212926, z: 0.738823}
-  m_Center: {x: -0.00016334653, y: 0.8800346, z: 0.29331934}
+  m_Size: {x: 0.6468961, y: 0.18212926, z: 0.61623544}
+  m_Center: {x: -0.00016334653, y: 0.8800346, z: 0.23202553}
 --- !u!1 &1471497443
 GameObject:
   m_ObjectHideFlags: 0
@@ -2565,7 +2563,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: a1a05ccd962cf094dafe38321c30e966, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400008, guid: a1a05ccd962cf094dafe38321c30e966, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
@@ -3064,7 +3062,6 @@ GameObject:
   m_Component:
   - component: {fileID: 1724902835}
   - component: {fileID: 1724902838}
-  - component: {fileID: 1724902837}
   - component: {fileID: 1724902836}
   m_Layer: 0
   m_Name: Cube (1)
@@ -3084,7 +3081,7 @@ Transform:
   m_LocalScale: {x: 2.8457828, y: 2.11114, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1724902836
 MeshRenderer:
@@ -3121,18 +3118,6 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &1724902837
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1724902834}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &1724902838
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -3222,7 +3207,7 @@ Transform:
   m_LocalScale: {x: 0.21636686, y: 0.03174244, z: 0.38990617}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 20
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1798247261
 GameObject:
@@ -3562,7 +3547,7 @@ Transform:
   - {fileID: 1338498815}
   - {fileID: 1863311409}
   m_Father: {fileID: 0}
-  m_RootOrder: 15
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1959950285
 GameObject:
@@ -3969,7 +3954,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4327c64d16ea2444b8c9246f74cd9024, type: 3}
       propertyPath: m_RootOrder
-      value: 10
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 4327c64d16ea2444b8c9246f74cd9024, type: 3}
       propertyPath: m_LocalScale.x
