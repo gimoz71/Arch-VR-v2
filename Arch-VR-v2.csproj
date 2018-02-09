@@ -405,7 +405,6 @@
     <Compile Include="Assets\Scripts\Indestructable.cs" />
     <Compile Include="Assets\Scripts\Initiate.cs" />
     <Compile Include="Assets\Scripts\SamplePlayerController.cs" />
-    <Compile Include="Assets\Scripts\switchScene.cs" />
     <Compile Include="Assets\Scripts\VRRaycaster.cs" />
     <Compile Include="Assets\Shaders\PlanarRealtimeReflection.cs" />
     <Compile Include="Assets\Simple Scene Fade Load System\Demo (You don&apos;t have to import this folder)\DemoScript.cs" />
