@@ -306,8 +306,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\changeScene.cs" />
-    <Compile Include="Assets\collideBeam.cs" />
     <Compile Include="Assets\OVR\Scripts\Composition\OVRCameraComposition.cs" />
     <Compile Include="Assets\OVR\Scripts\Composition\OVRComposition.cs" />
     <Compile Include="Assets\OVR\Scripts\Composition\OVRCompositionUtil.cs" />
@@ -402,9 +400,12 @@
     <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
     <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
     <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-    <Compile Include="Assets\SamplePlayerController.cs" />
+    <Compile Include="Assets\Scripts\collideBeam.cs" />
+    <Compile Include="Assets\Scripts\Indestructable.cs" />
+    <Compile Include="Assets\Scripts\SamplePlayerController.cs" />
+    <Compile Include="Assets\Scripts\SwitchScene.cs" />
+    <Compile Include="Assets\Scripts\VRRaycaster.cs" />
     <Compile Include="Assets\Shaders\PlanarRealtimeReflection.cs" />
-    <Compile Include="Assets\VRRaycaster.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\InteriorLighting1.2\Doc\Licence.txt" />
