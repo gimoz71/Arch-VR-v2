@@ -24,7 +24,7 @@ RenderSettings:
   m_AmbientSkyColor: {r: 1, g: 1, b: 1, a: 1}
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
-  m_AmbientIntensity: 0.25
+  m_AmbientIntensity: 2
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 2100000, guid: c3b594d2b5615d343b291be628544ca1, type: 2}
@@ -39,7 +39,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2.4580114, g: 2.4214587, b: 2.2514288, a: 1}
+  m_IndirectSpecularColor: {r: 2.4575572, g: 2.4208786, b: 2.2517672, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -83,7 +83,7 @@ LightmapSettings:
     m_PVRFilterTypeIndirect: 0
     m_PVRFilterTypeAO: 0
     m_PVRFilteringMode: 1
-    m_PVRCulling: 1
+    m_PVRCulling: 0
     m_PVRFilteringGaussRadiusDirect: 1
     m_PVRFilteringGaussRadiusIndirect: 5
     m_PVRFilteringGaussRadiusAO: 2
@@ -91,7 +91,7 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
     m_ShowResolutionOverlay: 1
-  m_LightingDataAsset: {fileID: 112000002, guid: 3ca13a180ea438541a765ed5b69cfaf0,
+  m_LightingDataAsset: {fileID: 112000002, guid: 1f570ce17dd8d764fa5cd077f457e07c,
     type: 2}
   m_UseShadowmask: 0
 --- !u!196 &4
@@ -586,6 +586,24 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 23123767544092358, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 23912919951539616, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 23166471214034528, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c4bbc088c81f3e6408d5c5f29f91e003, type: 2}
   m_IsPrefabParent: 0
@@ -2566,6 +2584,39 @@ Prefab:
       propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 23166471214034528, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23123767544092358, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23912919951539616, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_StitchLightmapSeams
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 23166471214034528, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 23123767544092358, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 23912919951539616, guid: c4bbc088c81f3e6408d5c5f29f91e003,
+        type: 2}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: c4bbc088c81f3e6408d5c5f29f91e003, type: 2}
   m_IsPrefabParent: 0
@@ -3151,7 +3202,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &956382575
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -4374,6 +4425,36 @@ Prefab:
       propertyPath: m_StitchLightmapSeams
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2300002, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300000, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300006, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300004, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300010, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300008, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
   m_IsPrefabParent: 0
@@ -5374,7 +5455,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &1403307515
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -6441,6 +6522,36 @@ Prefab:
       propertyPath: m_StitchLightmapSeams
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2300010, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300004, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300008, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300006, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300000, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
+    - target: {fileID: 2300002, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
+      propertyPath: m_LightmapParameters
+      value: 
+      objectReference: {fileID: 111300000, guid: c90cf296395fdbf42a2f80bc3ce26220,
+        type: 2}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: e3993dd8df702ef4f9586be9552482b0, type: 3}
   m_IsPrefabParent: 0

@@ -51,7 +51,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\changeScene.cs" />
      <Compile Include="Assets\OVR\Scripts\Composition\OVRCameraComposition.cs" />
      <Compile Include="Assets\OVR\Scripts\Composition\OVRComposition.cs" />
      <Compile Include="Assets\OVR\Scripts\Composition\OVRCompositionUtil.cs" />
@@ -146,9 +145,13 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
      <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
-     <Compile Include="Assets\SamplePlayerController.cs" />
+     <Compile Include="Assets\Scripts\collideBeam.cs" />
+     <Compile Include="Assets\Scripts\Fader.cs" />
+     <Compile Include="Assets\Scripts\Indestructable.cs" />
+     <Compile Include="Assets\Scripts\Initiate.cs" />
+     <Compile Include="Assets\Scripts\SamplePlayerController.cs" />
+     <Compile Include="Assets\Scripts\VRRaycaster.cs" />
      <Compile Include="Assets\Shaders\PlanarRealtimeReflection.cs" />
-     <Compile Include="Assets\VRRaycaster.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />
      <None Include="Assets\Modelli\PlanarReflection__Glass.shader" />
      <None Include="Assets\InteriorLighting1.2\Doc\Licence.txt" />
@@ -285,6 +288,9 @@
  </Reference>
  <Reference Include="UnityEditor.OSXStandalone.Extensions">
  <HintPath>C:/Program Files/Unity2017/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll</HintPath>
+ </Reference>
+ <Reference Include="Parse.Unity">
+ <HintPath>D:/Progetti/Arch-VR-v2/Assets/Parse/Parse.Unity.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Users/Luca/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
