@@ -121,12 +121,12 @@ public class VRRaycaster : MonoBehaviour
             {
                 lineRenderer.SetColors(Color.white, Color.white);
             }
-            if ((hit.collider.name == "portaSalaCorridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger)) || (hit.collider.name == "portaSalaCorridoio" && Input.GetMouseButton(0)))
+            if (hit.collider.name == "portaSalaCorridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 StartCoroutine(Fading("corridoio"));
                 //SceneManager.LoadScene("corridoio");
             }
-            if ((hit.collider.name == "portaCorridoioSala" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger)) || (hit.collider.name == "portaCorridoioSala" && Input.GetMouseButton(0)))
+            if (hit.collider.name == "portaCorridoioSala" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
             {
                 StartCoroutine(Fading("sala"));
                 //SceneManager.LoadScene("sala");
