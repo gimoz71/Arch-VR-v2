@@ -145,11 +145,12 @@
      <Compile Include="Assets\PostProcessing\Runtime\Utils\MaterialFactory.cs" />
      <Compile Include="Assets\PostProcessing\Runtime\Utils\RenderTextureFactory.cs" />
      <Compile Include="Assets\PostProcessing\Utilities\CustomMotionTexture\ExampleWheelController.cs" />
+     <Compile Include="Assets\Scripts\CameraPos.cs" />
      <Compile Include="Assets\Scripts\collideBeam.cs" />
      <Compile Include="Assets\Scripts\Fader.cs" />
-     <Compile Include="Assets\Scripts\Indestructable.cs" />
      <Compile Include="Assets\Scripts\Initiate.cs" />
      <Compile Include="Assets\Scripts\SamplePlayerController.cs" />
+     <Compile Include="Assets\Scripts\scenePos.cs" />
      <Compile Include="Assets\Scripts\VRRaycaster.cs" />
      <Compile Include="Assets\Shaders\PlanarRealtimeReflection.cs" />
      <None Include="Assets\PostProcessing\Resources\Shaders\DepthOfField.shader" />

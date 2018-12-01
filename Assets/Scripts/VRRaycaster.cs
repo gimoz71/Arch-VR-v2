@@ -131,12 +131,12 @@ public class VRRaycaster : MonoBehaviour
                 StartCoroutine(Fading("sala"));
                 //SceneManager.LoadScene("sala");
             }
-            if (hit.collider.name == "portaCorridoioCamera1" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
+			if ((hit.collider.name == "portaCorridoioCamera1" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger)) || (hit.collider.name == "portaCorridoioCamera1" && Input.GetMouseButton(0)))
             {
                 StartCoroutine(Fading("camera1"));
                 //SceneManager.LoadScene("camera1");
             }
-            if (hit.collider.name == "portaCamera1Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger))
+			if ((hit.collider.name == "portaCamera1Corridoio" && OVRInput.GetDown(OVRInput.Button.PrimaryIndexTrigger)) || (hit.collider.name == "portaCamera1Corridoio" && Input.GetMouseButton(0)))
             {
                 StartCoroutine(Fading("corridoio"));
                 //SceneManager.LoadScene("corridoio");
